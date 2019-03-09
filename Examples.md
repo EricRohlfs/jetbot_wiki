@@ -5,16 +5,13 @@ special documents that combine text editing, programming, and graphical display.
 The examples notebooks can be accessed by navigating to ``http://<jetbot_ip_address>:8888``,
 signing in with the password ``jetbot``, and navigating to the directory ``~/Notebooks``.
 
-[[_TOC_]]
-
 ### Basic Motion
 
 In the first example we'll learn the basics of making JetBot move around.  You should get a good feeling
 for how the motor commands effect the movement of the robot.
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
-2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
-3. Open and follow the ``basic_motion.ipynb`` notebook
+2. Open and follow the ``basic_motion.ipynb`` notebook
 
 > All paths mentioned for this example are relative to ``~/Notebooks/basic_motion``
 
