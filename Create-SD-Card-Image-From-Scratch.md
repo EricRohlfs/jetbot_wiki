@@ -11,6 +11,11 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```bash
     sudo usermod -aG i2c $USER
     ```
+4. Upgrade numpy
+    ```bash
+    sudo pip3 install --upgrade numpy
+    ```
+
 4. Install the pre-built PyTorch [pip wheel](https://drive.google.com/open?id=1Eq641Jqb2Q0KBKsVpAhU-vxB_Mqcfrjd) we provide for this project
 
     ```bash
