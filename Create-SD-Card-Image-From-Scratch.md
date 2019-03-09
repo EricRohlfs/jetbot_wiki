@@ -47,5 +47,13 @@ This is useful in case you want to distribute a modified version of the JetBot S
     cd jetbot
     sudo python3 setup.py install
     ```
+8. Make swapfile
+    ```
+    sudo fallocate -l 4G /var/swapfile
+    sudo chmod 600 /var/swapfile
+    sudo mkswap /var/swapfile
+    sudo swapon /var/swapfile
+    ```
+    
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Create-SD-Card-Image-From-Scratch/?pixel)](https://github.com/igrigorik/ga-beacon)
