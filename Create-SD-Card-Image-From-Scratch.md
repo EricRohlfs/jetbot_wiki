@@ -13,6 +13,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```
 4. Upgrade numpy
     ```bash
+    sudo apt-get update
     sudo apt install python3-pip
     sudo pip3 install --upgrade numpy
     ```
