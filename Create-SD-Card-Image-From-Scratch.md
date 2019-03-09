@@ -45,6 +45,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
     sudo apt install python3-smbus
     git clone https://github.com/NVIDIA-AI-IOT-private/jetbot
     cd jetbot
+    sudo apt-get install cmake
     sudo python3 setup.py install
     ```
 8. Make swapfile
