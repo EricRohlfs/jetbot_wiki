@@ -13,13 +13,13 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```
 4. Upgrade numpy
     ```bash
+    sudo apt install python3-pip
     sudo pip3 install --upgrade numpy
     ```
 
 4. Install the pre-built PyTorch [pip wheel](https://drive.google.com/open?id=1Eq641Jqb2Q0KBKsVpAhU-vxB_Mqcfrjd) we provide for this project
 
     ```bash
-    sudo apt install python3-pip
     sudo pip3 install torch-1.0.0a0+18eef1d-cp36-cp36m-linux_aarch64.whl
     ```
 5. Install traitlets (master, to support the ``unlink()`` method)
