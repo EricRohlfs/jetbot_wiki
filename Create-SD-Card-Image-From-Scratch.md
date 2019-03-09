@@ -83,6 +83,6 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```
 10. Download [ssd_mobilenet_v2_coco.engine](https://drive.google.com/open?id=1jNrw5aZweXCIh5if6OeFzfKEH1HsC4M5) to ``~/Notebooks/object_following/ssd_mobilenet_v2_coco.engine``
 
-11. Download [best_model.pth](#) to ``~/Notebooks/collision_avoidance/best_model.pth``
+11. Download [best_model.pth](https://drive.google.com/open?id=1UsRax8bR3R-e-0-80KfH2zAt-IyRPtnW) to ``~/Notebooks/collision_avoidance/best_model.pth``
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Create-SD-Card-Image-From-Scratch/?pixel)](https://github.com/igrigorik/ga-beacon)
