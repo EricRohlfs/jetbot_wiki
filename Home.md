@@ -27,3 +27,5 @@ Ask a question, make a suggestion, share a project...
 
 * [Battery tips](battery-tips)
 * [3D printing](3D-printing)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Home?pixel)](https://github.com/igrigorik/ga-beacon)
