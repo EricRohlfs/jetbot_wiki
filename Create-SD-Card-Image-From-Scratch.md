@@ -52,11 +52,11 @@ This is useful in case you want to distribute a modified version of the JetBot S
 8. Install jetbot services
 
     ```bash
-    python3 -m jetbot_robot.utils.create_stats_service
+    python3 -m jetbot.utils.create_stats_service
     sudo mv jetbot_stats.service /etc/systemd/system/jetbot_stats.service
     sudo systemctl enable jetbot_stats
     sudo systemctl start jetbot_stats
-    python3 -m jetbot_robot.utils.create_jupyter_service
+    python3 -m jetbot.utils.create_jupyter_service
     sudo mv jetbot_jupyter.service /etc/systemd/system/jetbot_jupyter.service
     sudo systemctl enable jetbot_jupyter
     sudo systemctl start jetbot_jupyter
