@@ -12,7 +12,7 @@ Follow these steps and you should be up and running with JetBot in no time!
 
 1. Get parts from the [bill of materials](bill-of-materials)
 2. Follow the [hardware setup](hardware-setup) to assemble your robot
-3. Follow the [software setup](software-setup) to get JetBot ready for programming
+3. Follow the [software setup](software-setup) to get the system ready for programming
 4. Follow the [examples](examples) to get moving and learn AI with JetBot!
 
 ### Getting involved
