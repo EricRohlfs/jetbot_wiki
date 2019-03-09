@@ -1,6 +1,6 @@
-Welcome to the JetBot Wiki!  
-Here you can find everything you need to get up and running with JetBot. 
-If you run into any issues, please let us know at [Issues](https://github.com/NVIDIA-AI-IOT-private/jetbot/issues)!
+Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot. 
+
+If you run into any issues, please [let us know](https://github.com/NVIDIA-AI-IOT-private/jetbot/issues)!
 
 Happy JetBotting :)
 
