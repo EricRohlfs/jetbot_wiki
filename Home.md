@@ -19,9 +19,9 @@ Follow these steps and you should be up and running with JetBot in no time!
 
 Ask a question, make a suggestion, share a project...
 
-* Join the ***[JetBot Discord Chat](https://discord.gg/Ady6NtF)***
-* Create an issue at [Issues](https://github.com/NVIDIA-AI-IOT-private/jetbot/issues)
-* Share your project on NVIDIA Jetson forum [Project Board](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
+* Join the [chat server](https://discord.gg/Ady6NtF)
+* Create an [issue](https://github.com/NVIDIA-AI-IOT-private/jetbot/issues)
+* Share your project on the [forum](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
 
 ### Useful stuff
 
