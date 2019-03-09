@@ -17,8 +17,12 @@ This is useful in case you want to distribute a modified version of the JetBot S
     sudo apt install python3-pip
     sudo pip3 install --upgrade numpy
     ```
+4. Install the pre-built TensorFlow [pip wheel](https://drive.google.com/open?id=1kphud0UiBZCXzRIZp9RY5xpfbt94n0mM) we provide for this project.
 
-4. Install the pre-built PyTorch [pip wheel](https://drive.google.com/open?id=1Eq641Jqb2Q0KBKsVpAhU-vxB_Mqcfrjd) we provide for this project
+    ```bash
+    sudo pip3 install tensorflow-1.8.0-cp36-cp36m-linux_aarch64.whl
+    ```
+4. Install the pre-built PyTorch [pip wheel](https://drive.google.com/open?id=1Eq641Jqb2Q0KBKsVpAhU-vxB_Mqcfrjd) we provide for this project.
 
     ```bash
     sudo pip3 install torch-1.0.0a0+18eef1d-cp36-cp36m-linux_aarch64.whl
