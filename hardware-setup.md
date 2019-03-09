@@ -1,6 +1,6 @@
 This page details everything needed to assemble your JetBot.  
 
-🛑{- Big warning!! -}🛑<br/>
+🛑 _**Big warning!!**_ 🛑<br/>
 **Please go through the [Getting Started with Jetson Nano Developer Kit](https://docs.google.com/document/d/1-JJpbVedCQf_nqYcPu4cTmoz3a1-GgSz6seSPA8xBPQ/edit?usp=sharing) first on Jetson Nano Developer Kit alone, before putting Jetson Nano Developer Kit on the robot. <br>
 Please first make sure that your Jetson Nano Developer Kit properly boots by itself with a microSD card that you set up.**
 
@@ -78,11 +78,11 @@ The board is later to be wired as depicted in Image #1.
 1. The motor driver board is to be wired like this in the later step.
 2. Pin headers and terminal blocks are to be wired.
 
-⚠️**Attention:** {- Many people make a common mistake here. The 3-pin header should NOT go to the very end of the row. It should leave one pad. -}
+⚠️**Attention:**  _**Many people make a common mistake here. The 3-pin header should NOT go to the very end of the row. It should leave one pad.**_ 
 
 3. Use of a soldering clamp like this make it easy to solder components.
 4. When soldering pin headers, pay attention to not melt the plastic base and make the pin loose.
-5. It should look like this. {- Again, note that the 3-pin header leave one pad open on its left. -}
+5. It should look like this.  _**Again, note that the 3-pin header leave one pad open on its left.**_ 
 
 ## 04. Splicing USB cable for motor driver power
 
@@ -93,7 +93,7 @@ Next you prepare a USB cable to be used as a power cable for the motor driver bo
 1. It should come with 2 USB cables in the package. Notice they are not identical, but the Micro USB plug ends are different. You put aside the one that has Micro USB plug that has cable goes to the right facing the port (to not block the Ethernet port).
 2. For powering the motor driver board, you want to use the cable with this end of Micro USB plug that has cable goes to the left facing the port/receptacle. (Click to enlarge the photo to check the appropriate Micro USB plug cable.)
 
-⚠️**Attention:** {- Failure to choose the right cable will result in needing to use undesirable shape/side of Micro USB plug for powering Jetson Nano Developer Kit, which would block its Ethernet port. -}
+⚠️**Attention:**  _**Failure to choose the right cable will result in needing to use undesirable shape/side of Micro USB plug for powering Jetson Nano Developer Kit, which would block its Ethernet port. **_
 
 3. Again, make sure you get the appropriate cable and cut it in 22-23cm (8.5-9 inch) from the Type-A connector side.
 4. Strip the end 2.5cm/1-inch of USB cable rubber.
