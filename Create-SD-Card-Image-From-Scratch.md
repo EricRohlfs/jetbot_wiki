@@ -11,11 +11,11 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```bash
     sudo usermod -aG i2c $USER
     ```
-4. Upgrade numpy
+4. Install pip and some python dependencies
     ```bash
     sudo apt-get update
-    sudo apt install python3-pip
-    sudo pip3 install --upgrade numpy
+    sudo apt install python3-pip python3-pil
+    sudo pip3 install --upgrade numpy 
     ```
 4. Install the pre-built TensorFlow [pip wheel](https://drive.google.com/open?id=1kphud0UiBZCXzRIZp9RY5xpfbt94n0mM) we provide for this project.
 
