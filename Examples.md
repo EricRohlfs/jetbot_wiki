@@ -59,3 +59,5 @@ We want to teach the robot to follow the road through all turns, and go forward 
 
 By now, we think you're pretty familiar with Jupyter notebooks, and operating the JetBot and your GPU training machine.  We'll leave you to explore these notebooks, they're found under ``Notebooks/lego_city/road_following``
 -->
+
+[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Examples/?pixel)](https://github.com/igrigorik/ga-beacon)
