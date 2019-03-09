@@ -35,8 +35,8 @@ This is useful in case you want to distribute a modified version of the JetBot S
     sudo pip3 install jupyter jupyterlab
     sudo jupyter labextension install @jupyter-widgets/jupyterlab-manager
     sudo jupyter labextension install @jupyterlab/statusbar
-    sudo jupyter lab --generate-config
-    sudo jupyter notebook password
+    jupyter lab --generate-config
+    jupyter notebook password
     ```
     You should then enter the password ``jetbot`` (unless you want to use a custom password).
 7. Install this repo
