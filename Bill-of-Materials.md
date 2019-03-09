@@ -59,3 +59,5 @@ Finally, you'll need to 3D print the [chassis](chassis.stl) and few parts that a
 # Next step
 
 Follow the [hardware setup](Hardware-Setup).
+
+[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Bill-of-Materials/?pixel)](https://github.com/igrigorik/ga-beacon)
