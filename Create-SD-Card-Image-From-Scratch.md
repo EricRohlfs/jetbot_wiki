@@ -26,6 +26,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
 
     ```bash
     sudo pip3 install torch-1.0.0a0+18eef1d-cp36-cp36m-linux_aarch64.whl
+    sudo pip3 install torchvision
     ```
 5. Install traitlets (master, to support the ``unlink()`` method)
 
