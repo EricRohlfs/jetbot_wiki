@@ -17,7 +17,7 @@ First, you'll need these components to use Jetson Nano Developer Kit.  If you're
 
 In addition to the components above, you'll need these components for each JetBot that you want to build.
 
-> Some items may not ship internationally or be available for all vendors.  Here are some tips;
+> Some items may not ship internationally or be available from all vendors.  Here are some tips;
 > - You can check the spec of each item and search if there are any compatible substitutes
 > - Try different vendors to see if they ship internationally or have items in stock
 > - For battery, please check the [battery selection tips](battery-selection-tips)
