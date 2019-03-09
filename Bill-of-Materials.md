@@ -1,6 +1,8 @@
-We'll list everything you need to build JetBot with all of the purchasing links below.
+This page lists everything you need to build JetBot along with purchasing links from popular vendors.
 
-# Essentials
+<a name="Jetson-Nano-Essentials"/>
+
+## Jetson Nano Essentials
 
 First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you probably have them on hand.
 
@@ -11,13 +13,13 @@ First, you'll need these components to use Jetson Nano Developer Kit.  If you're
 |  Power Supplly with Micro USB cable | 5V 2.5A | 1 | $7.50 | [Adafruit](http://adafru.it/1995) |
 |   |  |  | **$112.99** |  |
 
-# Individual components
+## JetBot Components
 
 In addition to the components above, you'll need these components for each JetBot that you want to build.
 
-> For people outside of the USA, procurements of some parts might be hard. Here are some tips;
-> - Adafruit ships intenationally and has distributors globally
-> - You can check the spec of each item to find the compatible item on your local online shop
+> Some items may not ship internationally or be available for all vendors.  Here are some tips;
+> - You can check the spec of each item and search if there are any compatible substitutes
+> - Try different vendors to see if they ship internationally or have items in stock
 > - For battery, please check the [battery selection tips](battery-selection-tips)
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
@@ -36,7 +38,7 @@ In addition to the components above, you'll need these components for each JetBo
 |  Righe-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
 |   |  |  | **$147.93** |  |
 
-# Large number items
+## Assembly hardware
 
 To assemble JetBot you'll also need these items below.  They come in packs so you won't need to order them for each robot.
 
@@ -50,13 +52,13 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 |  Jumper wires | Female-female, 20cm/8-inch | 1 | 4 | $1.25 | [Amazon](https://amzn.to/2tacYQD) |
 |   |  |  |  | **$4.04** |  |
 
-# 3D-print parts
+## 3D Printed Chassis
 
 Finally, you'll need to 3D print the [chassis](chassis.stl) and few parts that are included in the JetBot git repository.  If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
 
 >  If you're going to create several JetBots, it may be worth purchasing a 3D printer.  We've tested with a very affordable 3D printer that works great! Check out our [3D printing](3d-printing) page.
 
-# Next step
+## Next step
 
 Follow the [hardware setup](Hardware-Setup).
 
