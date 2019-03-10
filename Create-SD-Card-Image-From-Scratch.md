@@ -75,6 +75,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
     sudo chmod 600 /var/swapfile
     sudo mkswap /var/swapfile
     sudo swapon /var/swapfile
+    sudo echo "/var/swapfile swap swap defaults 0 0" >> /etc/fstab
     ```
  
 9. Copy JetBot notebooks to home directory
