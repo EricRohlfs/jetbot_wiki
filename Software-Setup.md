@@ -8,9 +8,9 @@ Follow these steps to set up your Jetson Nano with all of the required JetBot so
 
 #### Booting Jetson Nano
 
-1. Download the zip archieve of JetBot SD card image, [jetbot_image_v0p2p0.zip](https://drive.google.com/open?id=12WXOobOrX3ejWOMte6HEpUVXt0pNbi6f)
+1. Download the zip archieve of JetBot SD card image, [jetbot_image_v0p3p0.zip](https://drive.google.com/file/d/19AtDdsbMN-xoKSzh1ZsBh9T4RTnzSmQh/view?usp=sharing)
 2. Insert a 64GB+ SD card into your desktop machine
-3. Using [Etcher](https://www.balena.io/etcher/), select ``jetbot_image_v0p2p0.zip`` to flash the image to the SD card 
+3. Using [Etcher](https://www.balena.io/etcher/), select ``jetbot_image_v0p3p0.zip`` to flash the image to the SD card 
 4. Remove the SD card from your desktop machine
 5. Insert the SD card into your Jetson Nano (the micro SD card slot is located 
    under the module)
