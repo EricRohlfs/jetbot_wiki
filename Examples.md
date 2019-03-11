@@ -8,7 +8,7 @@ In this example we'll control JetBot by programming from a web browser.
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 2. Navigate to ``~/Notebooks/basic_motion/``
-2. Open and follow the ``basic_motion.ipynb`` notebook
+3. Open and follow the ``basic_motion.ipynb`` notebook
 
 ### 2. Teleoperation
 
