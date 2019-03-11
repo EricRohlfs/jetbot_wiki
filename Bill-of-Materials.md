@@ -54,9 +54,16 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 
 ## 3D Printed Components
 
-Finally, you'll need to 3D print the chassis and accessories that are included in the JetBot git repository.  If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
+The following parts must be 3D printed for each JetBot chassis.
 
-We include all of the information needed to print JetBot on the [3D printing](3d-printing) page.
+* [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
+* [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
+* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
+* [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
+
+If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
+
+We provide more helpful information in the [3D printing](3d-printing) page.
 
 ## Next step
 
