@@ -54,9 +54,9 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 
 ## 3D Printed Chassis
 
-Finally, you'll need to 3D print the [chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/tree/master/assets) and accessories that are included in the JetBot git repository.  If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
+Finally, you'll need to 3D print the chassis and accessories that are included in the JetBot git repository.  If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
 
->  If you're going to create several JetBots, it may be worth purchasing a 3D printer.  We've tested with a very affordable 3D printer that works great! Check out our [3D printing](3d-printing) page.
+We include all of the information needed to print JetBot on the [3D printing](3d-printing) page.
 
 ## Next step
 
