@@ -23,19 +23,19 @@ Given the above, we suggest the following practice for charging your battery
 
 The robot should boot automatically and launch Jupyter notebook.  Sometimes IP address will change, if you have attached the PiOLED it will automatically update and display the new IP address.
 
-## High current shutdown
+### Prevent high current shutdown
+
 
 In some situations, like running intense computation and stalling motors, it is possible to draw enough current to lower
 the battery voltage enough to cause the Jetson Nano to shutdown.  This occurrence is rare, and we have only witnessed
 it when running the Jetson Nano in MAX-N (high power) mode.  To prevent this, we recommend placing the Jetson Nano in
 5W mode by calling the following from a terminal
 
-```bash
-sudo nvpmodel -m1
-```
-
-You can check the current power mode by calling
-
-```bash
-nvpmodel -q
-```
+* Set to 5W mode 
+    ```bash
+    sudo nvpmodel -m1
+    ```
+* Confirm power mode
+    ```bash
+    nvpmodel -q
+    ```
