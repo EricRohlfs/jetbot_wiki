@@ -31,7 +31,7 @@ the battery voltage enough to cause the Jetson Nano to shutdown.  This occurrenc
 it when running the Jetson Nano in MAX-N (high power) mode.  To prevent this, we recommend placing the Jetson Nano in
 5W mode by calling the following from a terminal
 
-* Set to 5W mode 
+* Select 5W mode 
     ```bash
     sudo nvpmodel -m1
     ```
