@@ -24,10 +24,12 @@ Given the above battery caveats, we suggest the following practice for charging 
 In high power mode, it is possible to draw more current than the battery can supply.  To prevent this:
 
 1. Select 5W power mode 
+
     ```bash
     sudo nvpmodel -m1
     ```
 2. Confirm power mode
+
     ```bash
     nvpmodel -q
     ```
