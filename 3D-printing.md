@@ -3,11 +3,7 @@ This page has useful information related to 3D printing the JetBot chassis.  The
 * Print by yourself
 * Use a printing service
 
-## Print by yourself
-
-If you have a 3D printer on hand, we recommend printing the JetBot components yourself!
-
-### Components
+### 3D printed Components
 
 The following parts must be printed for each JetBot chassis.
 
@@ -15,6 +11,10 @@ The following parts must be printed for each JetBot chassis.
 * [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
 * [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
 * [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
+
+## Method 1 - Print by yourself
+
+If you have a 3D printer on hand, we recommend printing the JetBot components yourself!
 
 ### Print facts
 
@@ -45,7 +45,7 @@ of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbU
 | AmazonBasics | 1.75mm | PLA | Yellow | [Amazon](#) | Bold yellow, slightly translucent |
 | AmazonBasics | 1.75mm | PLA | Purple | [Amazon](#) | Smooth, pale finish |
 
-## Use a printing service
+## Method 2 - Use a printing service
 
 If you don't have a 3D printer on hand, and are not interested in purchasing one, there are external services
 that can print the chassis for you.  Below are some quotes from popular 3D printing services
