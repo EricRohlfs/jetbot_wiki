@@ -1,0 +1,1 @@
+This page details the hardware setup instructions for creating JetBot
