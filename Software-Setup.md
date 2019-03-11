@@ -1,10 +1,10 @@
 This page details the software setup required to run JetBot.
 
-### Jetson Nano setup
+## Jetson Nano setup
 
 Follow these steps to set up your Jetson Nano with all of the required JetBot software.
 
-#### Booting Jetson Nano
+### Booting Jetson Nano
 
 1. Download the zip archieve of JetBot SD card image, [jetbot_image_v0p3p0.zip](https://drive.google.com/file/d/19AtDdsbMN-xoKSzh1ZsBh9T4RTnzSmQh/view?usp=sharing)
 2. Insert a 64GB+ SD card into your desktop machine
@@ -17,14 +17,14 @@ Follow these steps to set up your Jetson Nano with all of the required JetBot so
 
 Congratulations!  Your Jetson Nano should now boot and present the Ubuntu login screen!  Now you'll need to connect to the WiFi and optionally update the JetBot software.
 
-#### Connecting to WiFi
+### Connecting to WiFi
 
 1. Log into the ``jetbot`` user using the password ``jetbot``
 2. Connect to a WiFi network using the Ubuntu desktop GUI
 
 Your Jetson Nano should now automatically connect to the WiFi at boot and display it's IP address on the piOLED display.
 
-#### Connecting to your robot from a web browser
+### Connecting to your robot from a web browser
 
 Now that your Jetson Nano WiFi is configured, you're able to program your robot from a 
 web browser on the same network!  This means that you shouldn't need to connect your robot
@@ -43,7 +43,7 @@ You should see the *Jupyter Lab* web programming environment load with a file br
 Right above the file browser on the left size you should see a ``+`` icon.  This enables you to
 launch notebooks, interactive Python programming shells, text editors, or a terminals.
 
-#### Installing latest software (optional)
+### Installing latest software (optional)
 
 The software for controlling JetBot and accessing the camera is contained in the 
 [jetbot](https://github.com/NVIDIA-AI-IOT-private/jetbot) Git repository.  
@@ -84,7 +84,7 @@ cp jetbot/notebooks/robot/* ~/Notebooks/
 
 You should now have the latest software installed and ready to use!  
 
-#### Configuring power mode
+### Configuring power mode
 
 To ensure that the Jetson Nano doesn't draw more current than the battery pack can supply,
 place the Jetson Nano in ``5W`` mode by calling the following command
@@ -93,7 +93,7 @@ place the Jetson Nano in ``5W`` mode by calling the following command
 sudo nvpmodel -m1
 ```
 
-### Training machine setup
+## Training machine setup
 
 > If you just want to test the robot, or use the pre-trained models, you can skip this step. 
 
@@ -103,13 +103,13 @@ of data samples.
 
 To run the training examples, you'll need a GPU enabled desktop or cloud instance with PyTorch installed.  We provide different solutions for setting up a training environment below.
 
-### Deep Learning Institute Container
+#### Deep Learning Institute Container
 
 As a convenience, we provide the JetBot training notebooks in a pre-configured container that can be launched through the
 NVIDIA Deep Learning Institute (DLI) infrastructure.  Once you've signed up, launching the training Jupyter Lab environment just takes a few clicks.  This makes it very easy to get started with training neural networks
 even if you don't have a local GPU system on hand.
 
-### Next
+## Next
 
 Follow the [examples](examples) and to start programming JetBot and learning AI!
 
