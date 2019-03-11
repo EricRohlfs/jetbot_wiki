@@ -1,6 +1,9 @@
 ## Print by yourself
 
 If you have a 3D printer on hand, we recommend printing the JetBot components yourself!
+
+### Components
+
 The following parts must be printed for each JetBot chassis.
 
 * [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
@@ -8,7 +11,7 @@ The following parts must be printed for each JetBot chassis.
 * [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
 * [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
 
-### Print details
+### Print facts
 
 Below are some facts related to printing a single JetBot
 
@@ -16,16 +19,16 @@ Below are some facts related to printing a single JetBot
 * Material used:  < 100 grams
 * Material cost:  ~ $2
 
-### Printers
+### Tested Printers
 
-We've tested that the following printers are able to print the JetBot chassis.
+We've tested that the following printers are able to print JetBot
 
 | Model | Cost | URL |
 |------------|------|---|
 | Monoprice Voxel | $320 | [Amazon](https://amzn.to/2GbUJ5Q) |
 | Ultimaker 2+ | $2500 | [Amazon](https://amzn.to/2t8UDU0) |
 
-### Filaments
+### Tested Filaments
 
 Based on our experience, we recommend using PLA filament when printing JetBot.  Below is a collection
 of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbUJ5Q) 3D printer.
