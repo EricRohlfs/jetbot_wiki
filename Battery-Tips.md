@@ -25,11 +25,7 @@ The robot should boot automatically and launch Jupyter notebook.  Sometimes IP a
 
 ### Prevent high current shutdown
 
-
-In some situations, like running intense computation and stalling motors, it is possible to draw enough current to lower
-the battery voltage enough to cause the Jetson Nano to shutdown.  This occurrence is rare, and we have only witnessed
-it when running the Jetson Nano in MAX-N (high power) mode.  To prevent this, we recommend placing the Jetson Nano in
-5W mode by calling the following from a terminal
+In high power mode it is possible to draw more current than the battery can supply.
 
 * Select 5W power mode 
     ```bash
