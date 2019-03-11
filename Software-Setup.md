@@ -111,7 +111,7 @@ even if you don't have a local GPU system on hand.
 
 ## Next
 
-Follow the [examples](examples) and to start programming JetBot and learning AI!
+Follow the [examples](examples) to start programming JetBot and learning AI!
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Software-Setup/?pixel)](https://github.com/igrigorik/ga-beacon)
