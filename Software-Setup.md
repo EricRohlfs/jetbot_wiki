@@ -103,7 +103,7 @@ of data samples.
 
 To run the training examples, you'll need a GPU enabled desktop or cloud instance with PyTorch installed.  We provide different solutions for setting up a training environment below.
 
-### Deep Learning Institute Container
+### NVIDIA Deep Learning Institute
 
 As a convenience, we provide the JetBot training notebooks in a pre-configured container that can be launched through the
 NVIDIA Deep Learning Institute (DLI) infrastructure.  Once you've signed up, launching the training Jupyter Lab environment just takes a few clicks.  This makes it very easy to get started with training neural networks
