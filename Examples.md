@@ -7,6 +7,7 @@ This page lists the examples provided with JetBot
 In this example we'll control JetBot by programming from a web browser.
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
+
 2. Navigate to ``~/Notebooks/basic_motion/``
 3. Open and follow the ``basic_motion.ipynb`` notebook
 
@@ -17,6 +18,7 @@ In this example we'll control JetBot by programming from a web browser.
 In this example we'll drive JetBot remotely, view live streaming video, and save snapshots!
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
+
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/teleoperation/``
 3. Open and follow the ``teleoperation.ipynb`` notebook
@@ -31,6 +33,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 #### Step 1 - Collect data on JetBot
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
+
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/collision_avoidance/``
 4. Open and follow the ``data_collection.ipynb`` notebook
@@ -38,6 +41,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 #### Step 2 - Train neural network on GPU machine
 
 1. Connect to your training machine by navigating to ``http://<training_machine_ip_address>:8888``
+
 2. Navigate to ``~/collision_avoidance/``
 3. Open and follow the ``train_model.ipynb`` notebook
 
