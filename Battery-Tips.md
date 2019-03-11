@@ -3,6 +3,7 @@ This page has tips related to battery charging and usage for [this battery](http
 ### Battery caveats
 
 * Outputs will momentarily power down when charger is inserted or removed
+
 * Outputs may power down when charger is connected.
 
 ### Best charging practice
