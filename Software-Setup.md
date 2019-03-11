@@ -1,7 +1,5 @@
 This page details the software setup required to run JetBot.
 
-[[_TOC_]]
-
 ### Jetson Nano setup
 
 Follow these steps to set up your Jetson Nano with all of the required JetBot software.
@@ -48,7 +46,7 @@ launch notebooks, interactive Python programming shells, text editors, or a term
 #### Installing latest software (optional)
 
 The software for controlling JetBot and accessing the camera is contained in the 
-[jetbot](https://gitlab-master.nvidia.com/jwelsh/jetbot) Git repository.  
+[jetbot](https://github.com/NVIDIA-AI-IOT-private/jetbot) Git repository.  
 
 > In case you're unfamiliar, *Git* is a tool 
 maintaining and co-developing software.  A Git repository is a collection of files
@@ -64,17 +62,14 @@ enter the following in sequence.
 
 Pull the latest git repository
 ```bash
-git clone https://gitlab-master.nvidia.com/jwelsh/jetbot
-```
-
-> For the internal beta, our software is hosted on NVIDIA gitlab-master.  You'll need to be connected to the corporate network in order to install the latest software.  You can either
-skip this step for now, or connect your Nano to the corporate network via Ethernet.  
+git clone https://github.com/NVIDIA-AI-IOT-private/jetbot
+``` 
 
 Re-install the ``jetbot`` Python package.
 
 ```bash
 cd jetbot
-python3 setup.py install --user
+sudo python3 setup.py install
 ```
 
 Then, you'll need to copy the example notebooks to the directory ``~/Notebooks`` (or a directory of your choosing).
@@ -87,7 +82,7 @@ cp jetbot/notebooks/robot/* ~/Notebooks/
 > If the Notebooks directory already exists (which it probably does), you can remove it with the following command
 > ``rm -rf /home/jetbot/Notebooks`` and then try re-calling the above command.
 
-You should now have the latest software installed and ready to use!  Before you can run the samples though, you'll need to assemble your robot as in the [hardware setup](hardware-setup).
+You should now have the latest software installed and ready to use!  
 
 #### Configuring power mode
 
@@ -106,49 +101,13 @@ Some of the examples require a separate machine for *training* the neural networ
 is a very computationally intensive task that requires a GPU machine to iterative over lots
 of data samples.
 
-To run the training examples, you'll need a GPU enabled desktop or cloud instance with PyTorch installed. Once you have that, clone and install the JetBot repository
+To run the training examples, you'll need a GPU enabled desktop or cloud instance with PyTorch installed.  We provide different solutions for setting up a training environment below.
 
-#### Docker container
+### Deep Learning Institute Container
 
-1. Follow these instructions to install docker-ce https://docs.docker.com/install/linux/docker-ce/ubuntu/
-2. Instructions at https://github.com/NVIDIA/nvidia-docker to install nvidia-docker
-
-Then you'll need to reload the docker daemon before you can use nvidia-docker
-
-```bash
-sudo systemctl daemon-reload
-sudo systemctl restart docker
-```
-
-Then, you can launch the docker container by calling
-
-```bash
-export NV_GPU=1
-sudo docker run --runtime=nvidia -it -p 8888:8888 gitlab-master.nvidia.com:5005/jwelsh/jetbot/jetbot-host:v0.2.0
-```
-
-> You may need to change the value of NV_GPU to match the GPU on your machine you want to use.  You can check this
-> with by calling ``nvidia-smi`` in a terminal
-
-> Please note, the ``Notebooks`` directory in the docker container will be cleared if you shutdown the container!
-> If you want to save any changes, we suggest mounting a volume to the container at ``/dli/jetbot/<your volume>``
-
-#### Manual setup
-
-If you don't want to use the docker container, you can manually configure the training machine by following these steps.
-You'll need PyTorch already installed on your training machine.
-
-```bash
-git clone https://gitlab-master.nvidia.com/jwelsh/jetbot
-cd jetbot
-python3 setup.py install --user
-```
-
-Then, you can create a directory containing the example *host* notebooks by calling
-
-```bash
-python3 -m jetbot.util.create_notebooks_dir --output_dir=Notebooks
-```
+As a convenience, we provide the JetBot training notebooks in a pre-configured container that can be launched through the
+NVIDIA Deep Learning Institute (DLI) infrastructure.  Once you've signed up, launching the training Jupyter Lab environment just takes a few clicks.  This makes it very easy to get started with training neural networks
+even if you don't have a local GPU system on hand.
 
 ### Next
 
