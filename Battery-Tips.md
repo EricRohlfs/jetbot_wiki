@@ -1,4 +1,4 @@
-This page has tips related to battery charging and usage.
+This page has tips related to battery charging and usage for [this battery](https://amzn.to/2WRcIUe).
 
 ## Charging
 
