@@ -48,4 +48,9 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
+
+### Now what?
+
+Can you think of a new behavior you can teach JetBot?  Try to modify the examples and make something new!
+
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Examples/?pixel)](https://github.com/igrigorik/ga-beacon)
