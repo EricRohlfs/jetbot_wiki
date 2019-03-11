@@ -28,7 +28,7 @@ We've tested that the following printers are able to print the JetBot chassis.
 ### Filaments
 
 Based on our experience, we recommend using PLA filament when printing JetBot.  Below is a collection
-of filaments that we have printed the JetBot chassis with on the [Monoprice Voxel](https://amzn.to/2GbUJ5Q) 3D printer.
+of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbUJ5Q) 3D printer.
 
 | Brand | Thickness | Material | Color | URL | Notes |
 |-------|-----------|----------|-------|-----|-------|
