@@ -48,6 +48,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 #### Step 3 - Run live demo on JetBot
 
 1. Connect back to your robot by navigating to ``http://<jetbot_ip_address>:8888``
+
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
