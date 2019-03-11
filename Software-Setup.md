@@ -7,6 +7,7 @@ Follow these steps to set up your Jetson Nano with all of the required JetBot so
 ### Booting Jetson Nano
 
 1. Download the zip archieve of JetBot SD card image, [jetbot_image_v0p3p0.zip](https://drive.google.com/file/d/19AtDdsbMN-xoKSzh1ZsBh9T4RTnzSmQh/view?usp=sharing)
+
 2. Insert a 64GB+ SD card into your desktop machine
 3. Using [Etcher](https://www.balena.io/etcher/), select ``jetbot_image_v0p3p0.zip`` to flash the image to the SD card 
 4. Remove the SD card from your desktop machine
@@ -20,6 +21,7 @@ Congratulations!  Your Jetson Nano should now boot and present the Ubuntu login 
 ### Connecting to WiFi
 
 1. Log into the ``jetbot`` user using the password ``jetbot``
+
 2. Connect to a WiFi network using the Ubuntu desktop GUI
 
 Your Jetson Nano should now automatically connect to the WiFi at boot and display it's IP address on the piOLED display.
@@ -31,12 +33,14 @@ web browser on the same network!  This means that you shouldn't need to connect 
 to a monitor past this step! 
 
 1. Unplug your HDMI monitor, USB keyboard, and mouse from Jetson Nano.
+
 2. Check the IP address of your robot on the *piOLED* display screen.  Enter this in place of ``<jetbot_ip_address>`` in the next command
 3. Navigate to ``http://<jetbot_ip_address>:8888``
 
 You should see the *Jupyter Lab* web programming environment load with a file browser, editor, and other tools. Jupyter Lab is a web based programming that enables the following 
 
 * File browsing and editing
+
 * Execution of Jupyter *Notebooks*, which mix text descriptions, executable code *cells* and graphics displays in a single hybrid document!
 * File upload and downloading from your computer
 
