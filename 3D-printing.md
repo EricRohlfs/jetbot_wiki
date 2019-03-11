@@ -5,7 +5,7 @@ The following parts must be printed for each JetBot chassis.
 
 * [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
 * [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
+* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
 * [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
 
 ### Print details
