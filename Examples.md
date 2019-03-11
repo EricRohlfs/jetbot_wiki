@@ -56,6 +56,11 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 ### Now what?
 
-Can you think of a new behavior you can teach JetBot?  Try to modify the examples and make something new!
+Can you think of a new behavior you can teach JetBot? 
+
+Share it with us:
+
+* [Discord chat channel](#)
+* [NVIDIA Developer Forums](#)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Examples/?pixel)](https://github.com/igrigorik/ga-beacon)
