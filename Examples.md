@@ -56,7 +56,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 ### What's next?
 
-Can you think of a new behavior you can teach JetBot? 
+Can you use deep learning to teach JetBot something new?
 
 Share it with us:
 
