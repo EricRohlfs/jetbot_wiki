@@ -52,7 +52,7 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 |  Jumper wires | Female-female, 20cm/8-inch | 1 | 4 | $1.25 | [Amazon](https://amzn.to/2tacYQD) |
 |   |  |  |  | **$4.04** |  |
 
-## 3D Printed Chassis
+## 3D Printed Components
 
 Finally, you'll need to 3D print the chassis and accessories that are included in the JetBot git repository.  If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
 
