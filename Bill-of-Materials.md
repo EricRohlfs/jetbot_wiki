@@ -29,8 +29,8 @@ In addition to the components above, you'll need these components for each JetBo
 |  Wi-Fi card | Intel Wireless-AC 8265 | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | 
 |  Wi-Fi antenna | U.FL connectors | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | 
 |  Motor | "TT motor" with 200RPM gearbox | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon1](https://amzn.to/2MYln32), [2](https://amzn.to/2MU9zPb) | 
-|  Motor driver | TB6612, PCA9685 | 1 | $19.95 | [Adafruit](http://adafru.it//2927), [Amazon](https://amzn.to/2GvJhBA) |
-|  Wheel | 60mm wheel for "TT motor" | 2 | $5.00 | [Adafruit](http://adafru.it//3757 ) |
+|  Motor driver | TB6612, PCA9685 | 1 | $19.95 | [Adafruit](http://adafru.it/2927), [Amazon](https://amzn.to/2GvJhBA) |
+|  Wheel | 60mm wheel for "TT motor" | 2 | $5.00 | [Adafruit](http://adafru.it/3757 ) |
 |  Caster Ball | 1-inch POM ball | 1 | $6.30 | [Amazon](http://amzn.com/B01N2S7CX6/) |
 |  Battery | 2x 3A output, 10000mAh | 1 | $15.99 | [Amazon](https://amzn.to/2WRcIUe) |
 |  USB cables | Right Angle 2-pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) |
