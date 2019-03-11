@@ -54,7 +54,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 4. Open and follow the ``live_demo.ipynb`` notebook
 
 
-### Now what?
+### What's next?
 
 Can you think of a new behavior you can teach JetBot? 
 
