@@ -25,7 +25,7 @@ The robot should boot automatically and launch Jupyter notebook.  Sometimes IP a
 
 ### Prevent high current shutdown
 
-In high power mode it is possible to draw more current than the battery can supply.
+In high power mode, it is possible to draw more current than the battery can supply.  To prevent this,
 
 * Select 5W power mode 
     ```bash
