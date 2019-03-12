@@ -15,6 +15,8 @@ In this example we'll control JetBot by programming from a web browser.
 
 ### Example 2 - Teleoperation
 
+<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" witdh="320"></a>
+
 > This example requires a gamepad controller connected to your workstation.
 
 In this example we'll drive JetBot remotely, view live streaming video, and save snapshots!
@@ -24,8 +26,6 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/teleoperation/``
 3. Open and follow the ``teleoperation.ipynb`` notebook
-
-<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" witdh="640"></a>
 
 ### Example 3 - Collision avoidance
 
