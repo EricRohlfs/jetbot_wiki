@@ -15,7 +15,7 @@ In this example we'll control JetBot by programming from a web browser.
 
 ### Example 2 - Teleoperation
 
-<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" witdh="320"></a>
+<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" height="320"></a>
 
 > This example requires a gamepad controller connected to your workstation.
 
