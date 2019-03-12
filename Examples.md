@@ -82,6 +82,9 @@ In this example we'll have JetBot follow an object using a pre-trained model cap
 
 <a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" witdh="640"></a>
 
+[![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
+
+
 ## Next
 
 Make JetBot smarter
