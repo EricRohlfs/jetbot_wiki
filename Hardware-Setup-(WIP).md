@@ -95,7 +95,7 @@ To build JetBot you'll need the following tools
 3. Route the spliced cable under the motor driver to organize and prevent stress on screw terminal
 4. Secure motor driver to chassis using self taping screws
 5. Secure left and right motor wires to motor screw terminals
-    > ***Notice (3/11/2019):*** The red / black wires for the left and right motor are actually flipped in the image.  This will not cause damage, but the motors will spin backwards.  Please flip them to the correct orientation.
+    > ***Notice (3/11/2019):*** We made a slight mistake: The red / black wires for the left and right motor are actually flipped in the image.  This will not cause damage, but the motors will spin backwards.  Please flip them to the correct orientation.
 
 ### Step 6 - Mount WiFi antennae 
 
