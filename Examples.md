@@ -36,7 +36,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 1 - Collect data on JetBot
 
-<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" witdh="320"></a>
+<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
@@ -48,7 +48,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 2 - Train neural network on cloud
 
-<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" witdh="320"></a>
+<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>
 
 1. Navigate to ``https://courses.nvidia.com/dli-event`` in your web browser
 
@@ -63,7 +63,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 3 - Run live demo on JetBot
 
-<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" witdh="320"></a>
+<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>
 
 1. Connect back to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
@@ -73,17 +73,17 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 ### Example 4 - Object Following
 
-[![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
+<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
 
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
-
-<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/object_following/``
 4. Open and follow the ``live_demo.ipynb`` notebook
+
+[![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
 
 ## Next
 
