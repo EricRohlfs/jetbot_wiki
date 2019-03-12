@@ -42,7 +42,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance/``
 4. Open and follow the ``data_collection.ipynb`` notebook
 
-<a href="images/JL03a_Data-Collection_thumb.png"><img src="images/JL03a_Data-Collection_thumb.png" witdh="640"></a>
+<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" witdh="640"></a>
 
 #### Step 2 - Train neural network on cloud
 
