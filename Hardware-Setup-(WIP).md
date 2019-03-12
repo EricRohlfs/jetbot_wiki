@@ -158,16 +158,22 @@ To build JetBot you'll need the following tools
 
 1. Secure 6pin right angle header to piOLED by some method
 
-2. Solder the pins depicted (3.3V, SDA, SCK, GND on piOLED)
+2. Solder the pins depicted (3.3V, SDA, SCL, GND on piOLED)
     > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip
 
 ### Step 11 - Wire motor driver to *piOLED* display
 
 <img src="images/JB3-Assy_11-1.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_11-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_11-3.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_11-4.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_11-5.JPG" witdh="120" height="120">
+
+1. Select 4 wire segment of female-female jumper cables.
+    > We use brown, red, orange, yellow segment.  You can map the colors accordingly.
+
+2. Attach 3.3V (red), GND (brown), SDA (orange), and SCL (yellow) to motor driver as shown
+3. Route the 4 wire jumper cable segment through chassis
+4. Attach red, brown, orange and yellow wires to right angle header as depicted
+   > Pay close attention!  Reversing the red / brown wires could damage the system.
 
 ### Step 12 - Mount camera
 
@@ -175,6 +181,12 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_12-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_12-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_12-4.JPG" witdh="120" height="120">
+
+1. Attach the camera to the camera mount using 4x self tapping screws
+
+2. Attach the camera mount to chassis with 4x self tapping screws
+3. Insert the other end of ribbon cable into Jetson Nano developer kit
+4. (optional) Tuck the ribbon cable against heat sink to organize
 
 ### Step 13 - Attach wide angle sensor
 
@@ -185,12 +197,23 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_13-5.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_13-6.JPG" witdh="120" height="120">
 
+1. Peel off the original camera sensor
+
+2. Remove any excess adhesive material
+3. Remove the adhesive film cover from wide angle replacement sensor
+4. Attach wide angle replacement sensor to camera module
+5. Ensure the sensor connector is fastened to camera module
+
 ### Step 14 - Mount battery
 
 <img src="images/JB3-Assy_14-1.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_14-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_14-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_14-4.JPG" witdh="120" height="120">
+
+1. Attach double sided adhesive tabs to each end of battery, leaving some tab exposed
+2. Holding robot upside down, slide battery into battery bay
+3. Holding the battery in place, flip the robot and secure battery to chassis
 
 ### Step 15 - Organize wires
 
