@@ -212,6 +212,7 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_14-4.JPG" witdh="120" height="120">
 
 1. Attach double sided adhesive tabs to each end of battery, leaving some tab exposed
+
 2. Holding robot upside down, slide battery into battery bay
 3. Holding the battery in place, flip the robot and secure battery to chassis
 
@@ -220,6 +221,8 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_15-1.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_15-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_15-3.JPG" witdh="120" height="120">
+
+1. Route USB cables through chassis to organize and prevent dragging
 
 # Next step
 
