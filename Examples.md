@@ -38,12 +38,17 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance/``
 4. Open and follow the ``data_collection.ipynb`` notebook
 
-#### Step 2 - Train neural network on GPU machine
+#### Step 2 - Train neural network on cloud
 
-1. Connect to your training machine by navigating to ``http://<training_machine_ip_address>:8888``
+1. Navigate to ``https://courses.nvidia.com/dli-event`` in your web browser
 
-2. Navigate to ``~/collision_avoidance/``
-3. Open and follow the ``train_model.ipynb`` notebook
+2. Enter the event code ``DLI_Jet_Demo``
+3. Sign in to your NVIDIA Developer Account if you have not already
+4. Select ``View Course`` -> ``Course`` -> ``Click here to begin`` -> ``Start``
+5. Wait a few minutes for the cloud training machine to set up
+6. Launch the Jupyter Lab by selecting ``Launch Task``
+7. In the Jupyter Lab tab, navigate to ``~/collision_avoidance``
+8. Open and follow the ``train_model.ipynb`` notebook
 
 #### Step 3 - Run live demo on JetBot
 
