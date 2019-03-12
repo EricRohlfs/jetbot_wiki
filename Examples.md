@@ -25,6 +25,8 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 3. Navigate to ``~/Notebooks/teleoperation/``
 3. Open and follow the ``teleoperation.ipynb`` notebook
 
+<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation_thumb.png" witdh="640"></a>
+
 ### Example 3 - Collision avoidance
 
 In this example we'll collect an *image classification* dataset that will be used to help keep
