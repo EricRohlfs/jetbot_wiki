@@ -104,12 +104,21 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_07-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_07-4.JPG" witdh="120" height="120">
 
+1. Secure one patch antenna to the underside of top plate
+
+2. Secure the other patch antenna at edge of battery bay
+3. Route connectors as shown
+
 ### Step 7 - Remove Jetson Nano module from developer kit
 
 <img src="images/JB3-Assy_06-1.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_06-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_06-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_06-4.JPG" witdh="120" height="120">
+
+1. Remove standoff screws from Jetson Nano module
+
+2. Release the side latches of SODIMM connector using hands
 
 ### Step 8 - Attach WiFi module to developer kit
 
@@ -120,15 +129,27 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_08-5.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_08-6.JPG" witdh="120" height="120">
 
+1. Attach developer kit to chassis using self taping screws
+
+2. Attach both antennae to WiFi module using fingers
+3. Remove the screw from developer kit by the M.2 socket
+4. Insert WiFi module into M.2 slot on developer kit
+5. Fasten WiFi module to developer kit with screw removed in (3)
+6. Re-attach the Jetson Nano module to developer kit
+
 ### Step 9 - Mount ball caster
 
 <img src="images/JB3-Assy_09-1.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_09-2.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_09-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_09-4.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_09-5.JPG" witdh="120" height="120">
+<img src="images/JB3-Assy_09-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_09-6.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_09-7.JPG" witdh="120" height="120">
+
+1. Place the caster ball inside of shroud
+
+2. Insert the caster base into shroud, securing the ball
+    > If the socket is too tight, file it some.
+3. Attach the assembled caster onto the chassis with self taping screws
+    > It will share two screw holes with the motor driver.
 
 ### Step 10 - Solder header onto *piOLED* display
 
