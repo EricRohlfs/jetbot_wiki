@@ -4,7 +4,7 @@ This page lists the examples provided with JetBot
 
 ### Example 1 - Basic Motion
 
-<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="320"></a>
+<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="300"></a>
 
 In this example we'll control JetBot by programming from a web browser.
 
