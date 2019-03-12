@@ -66,6 +66,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
+<a href="images/JL03c_Live-demo.png"><img src="images/JL03b_Live-demo.png" witdh="640"></a>
+
 ### Example 4 - Object Following
 
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
