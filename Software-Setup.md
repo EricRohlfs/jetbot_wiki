@@ -83,7 +83,7 @@ place the Jetson Nano in ``5W`` mode by calling the following command
 
 ## Next
 
-Follow the [examples](examples) to start programming JetBot and learning AI!
+Follow the [examples](examples).
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Software-Setup/?pixel)](https://github.com/igrigorik/ga-beacon)
