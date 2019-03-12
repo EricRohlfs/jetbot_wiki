@@ -69,6 +69,10 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
+#### Video
+
+This video shows multiple JetBots running collision avoidance
+
 [![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
 
 ### Example 4 - Object Following
@@ -82,6 +86,10 @@ In this example we'll have JetBot follow an object using a pre-trained model cap
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/object_following/``
 4. Open and follow the ``live_demo.ipynb`` notebook
+
+#### Video
+
+This video shows JetBot following a person and avoiding obstacles
 
 [![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
 
