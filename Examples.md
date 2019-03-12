@@ -68,7 +68,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 <a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" witdh="640"></a>
 
-<video src="videos/Launching-of-JetBots.MOV" width="640" controls preload></video>
+[![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
 
 ### Example 4 - Object Following
 
