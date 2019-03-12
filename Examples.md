@@ -28,9 +28,9 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 In this example we'll collect an *image classification* dataset that will be used to help keep
 JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked``.  We'll use this AI classifier to prevent JetBot from entering dangerous territory.
 
-> We provide a pre-trained model so you can skip to step 3 if desired.
-
 #### Step 1 - Collect data on JetBot
+
+> We provide a pre-trained model so you can skip to step 3 if desired.
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
