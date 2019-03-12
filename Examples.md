@@ -72,6 +72,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 ### Example 4 - Object Following
 
+<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
+
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
@@ -80,7 +82,6 @@ In this example we'll have JetBot follow an object using a pre-trained model cap
 3. Navigate to ``~/Notebooks/object_following/``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
-<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" witdh="640"></a>
 
 [![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
 
