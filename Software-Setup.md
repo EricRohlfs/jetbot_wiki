@@ -62,7 +62,7 @@ on the SD card image.  To install the latest software:
     rsync jetbot/notebooks/robot ~/Notebooks
     ```
 
-### Step 6 - Configure power mode (optional, recommended)
+### Step 6 - Configure power mode
 
 To ensure that the Jetson Nano doesn't draw more current than the battery pack can supply,
 place the Jetson Nano in ``5W`` mode by calling the following command
