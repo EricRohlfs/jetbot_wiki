@@ -36,7 +36,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
-In the first step we collect labeled snapshots on JetBot
+First, collect labeled snapshots on JetBot
 
 <a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
@@ -48,7 +48,7 @@ In the first step we collect labeled snapshots on JetBot
 
 #### Step 2 - Train neural network on cloud
 
-The second step we train the collision avoidance neural network on the cloud
+Second, train the neural network on the cloud
 
 <a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>
 
@@ -65,7 +65,7 @@ The second step we train the collision avoidance neural network on the cloud
 
 #### Step 3 - Run live demo on JetBot
 
-In the third step we use the trained neural network to control JetBot
+Third, run the trained neural network to control JetBot
 
 <a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>
 
