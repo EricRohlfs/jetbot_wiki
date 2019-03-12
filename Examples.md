@@ -36,6 +36,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
+In the first step we collect labeled snapshots on JetBot
+
 <a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
@@ -45,6 +47,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 4. Open and follow the ``data_collection.ipynb`` notebook
 
 #### Step 2 - Train neural network on cloud
+
+The second step we train the collision avoidance neural network on the cloud
 
 <a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>
 
@@ -60,6 +64,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 
 #### Step 3 - Run live demo on JetBot
+
+In the third step we use the trained neural network to control JetBot
 
 <a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>
 
@@ -77,9 +83,9 @@ This video shows multiple JetBots running collision avoidance
 
 ### Example 4 - Object Following
 
-<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
-
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
+
+<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
