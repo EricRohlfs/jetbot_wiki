@@ -10,7 +10,7 @@ First, you'll need these components to use Jetson Nano Developer Kit.  If you're
 | --- | --- | --: | --: | --- |
 |  Jetson Nano |  | 1 | $99.00 |  |
 |  Micro SD card | 64GB | 1 | $13.99 | [Amazon](https://amzn.to/2Us6bOv) |
-|  Power Supplly with Micro USB cable | 5V 2.5A | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) |
+|  Power supply | Micro USB, 5V, 2.5A | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) |
 |   |  |  | **$112.99** |  |
 
 ## JetBot Components
