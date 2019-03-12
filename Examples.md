@@ -4,9 +4,9 @@ This page lists the examples provided with JetBot
 
 ### Example 1 - Basic Motion
 
-<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="320"></a>
-
 In this example we'll control JetBot by programming from a web browser.
+
+<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
