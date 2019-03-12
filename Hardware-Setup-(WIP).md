@@ -160,8 +160,8 @@ To build JetBot you'll need the following tools
 
 1. Secure 6pin right angle header to piOLED by some method
 
-2. Solder the pins depicted (3.3V, SDA, SCL, GND on piOLED)
-    > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip
+2. Solder the pins depicted (3.3V, SDA, SCL, and GND solder seen when zoomed in on right image)
+    > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip. 
 
 ### Step 11 - Wire motor driver to *piOLED* display
 
