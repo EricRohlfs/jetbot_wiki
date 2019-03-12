@@ -127,8 +127,6 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_14-2.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_14-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_14-4.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_14-5.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_14-6.JPG" witdh="120" height="120">
 
 ### Step 15 - Organize wires
 
