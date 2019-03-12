@@ -69,7 +69,7 @@ Make JetBot smarter
 
 Create something entirely new!
 
-* Copy and modify the collision avoidance example for your own project
+* Modify the collision avoidance example for your own project
 * Try out some new hardware with Jetson Nano.  It's easy with [Jetson GPIO](#) and [Adafruit Blinka](#)
 
 Share it with us
