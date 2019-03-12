@@ -15,11 +15,11 @@ In this example we'll control JetBot by programming from a web browser.
 
 ### Example 2 - Teleoperation
 
-<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" height="320"></a>
-
 > This example requires a gamepad controller connected to your workstation.
 
 In this example we'll drive JetBot remotely, view live streaming video, and save snapshots!
+
+<a href="images/JL02_Teleoperation.png"><img src="images/JL02_Teleoperation.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
@@ -29,12 +29,12 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 
 ### Example 3 - Collision avoidance
 
-<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
-
 In this example we'll collect an *image classification* dataset that will be used to help keep
 JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked``.  We'll use this AI classifier to prevent JetBot from entering dangerous territory.
 
 #### Step 1 - Collect data on JetBot
+
+<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
@@ -46,7 +46,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 2 - Train neural network on cloud
 
-<!--<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>-->
+<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>
 
 1. Navigate to ``https://courses.nvidia.com/dli-event`` in your web browser
 
@@ -61,7 +61,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 3 - Run live demo on JetBot
 
-<!--<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>-->
+<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>
 
 1. Connect back to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
