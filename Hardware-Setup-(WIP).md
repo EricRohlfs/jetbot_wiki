@@ -36,7 +36,7 @@ To build JetBot you'll need the following tools
 <a href="images/JB3-Assy_02-4.JPG"><img src="images/JB3-Assy_02-4.JPG" witdh="120" height="120"></a>
 <a href="images/JB3-Assy_02-5.JPG"><img src="images/JB3-Assy_02-5.JPG" witdh="120" height="120"></a>
 
-1. Cut and remove the wire securing zip ties from each motor
+1. Cut and remove the zip tie from each motor
 
 2. Tuck the wires beneath transparent band to prevent stress on solder joints
 3. Insert each motor into the 3D printed chassis
