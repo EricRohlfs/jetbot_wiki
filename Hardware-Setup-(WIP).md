@@ -90,7 +90,7 @@ To build JetBot you'll need the following tools
 
 1. Route the spliced cable through chassis
 
-2. Secure exposed red (+) and black (-) wires to screw terminals depicted
+2. Secure exposed red (+) and black (-) wires to the power terminals on motor driver
     > Pay attention to the markings on the motor driver.  Incorrect wiring could damage the driver.
 3. Route the spliced cable under the motor driver to organize and prevent stress on screw terminal
 4. Secure motor driver to chassis using self taping screws
