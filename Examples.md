@@ -4,7 +4,7 @@ This page lists the examples provided with JetBot
 
 ### Example 1 - Basic Motion
 
-<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="300"></a>
+<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" height="320"></a>
 
 In this example we'll control JetBot by programming from a web browser.
 
@@ -29,10 +29,14 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 
 ### Example 3 - Collision avoidance
 
+[![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
+
 In this example we'll collect an *image classification* dataset that will be used to help keep
 JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked``.  We'll use this AI classifier to prevent JetBot from entering dangerous territory.
 
 #### Step 1 - Collect data on JetBot
+
+<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" witdh="320"></a>
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
@@ -42,9 +46,9 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance/``
 4. Open and follow the ``data_collection.ipynb`` notebook
 
-<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" witdh="640"></a>
-
 #### Step 2 - Train neural network on cloud
+
+<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" witdh="320"></a>
 
 1. Navigate to ``https://courses.nvidia.com/dli-event`` in your web browser
 
@@ -56,9 +60,10 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 7. In the Jupyter Lab tab, navigate to ``~/collision_avoidance``
 8. Open and follow the ``train_model.ipynb`` notebook
 
-<a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" witdh="640"></a>
 
 #### Step 3 - Run live demo on JetBot
+
+<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" witdh="320"></a>
 
 1. Connect back to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
@@ -66,25 +71,19 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
-<a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" witdh="640"></a>
-
-[![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
-
 ### Example 4 - Object Following
 
-<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
+[![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
 
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
+
+<a href="images/JL04_Object-Following.png"><img src="images/JL04_Object-Following.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/object_following/``
 4. Open and follow the ``live_demo.ipynb`` notebook
-
-
-[![](http://img.youtube.com/vi/MBUEbU9Q6wg/0.jpg)](http://www.youtube.com/watch?v=MBUEbU9Q6wg "Dancing with JetBot")
-
 
 ## Next
 
