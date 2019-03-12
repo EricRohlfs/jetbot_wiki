@@ -36,8 +36,6 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 > We provide a pre-trained model so you can skip to step 3 if desired.
 
-First, collect labeled snapshots on JetBot
-
 <a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
@@ -47,8 +45,6 @@ First, collect labeled snapshots on JetBot
 4. Open and follow the ``data_collection.ipynb`` notebook
 
 #### Step 2 - Train neural network on cloud
-
-Second, train the neural network on the cloud
 
 <a href="images/JL03b_Training.png"><img src="images/JL03b_Training.png" height="320"></a>
 
@@ -64,8 +60,6 @@ Second, train the neural network on the cloud
 
 
 #### Step 3 - Run live demo on JetBot
-
-Third, run the trained neural network to control JetBot
 
 <a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" height="320"></a>
 
