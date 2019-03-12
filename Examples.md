@@ -29,8 +29,6 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 
 ### Example 3 - Collision avoidance
 
-[![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
-
 In this example we'll collect an *image classification* dataset that will be used to help keep
 JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked``.  We'll use this AI classifier to prevent JetBot from entering dangerous territory.
 
@@ -70,6 +68,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
+
+[![](http://img.youtube.com/vi/6cLk9TSgFSw/0.jpg)](http://www.youtube.com/watch?v=6cLk9TSgFSw "Launching of JetBots")
 
 ### Example 4 - Object Following
 
