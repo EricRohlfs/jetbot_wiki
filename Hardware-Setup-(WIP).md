@@ -153,11 +153,13 @@ To build JetBot you'll need the following tools
 
 ### Step 10 - Solder header onto *piOLED* display
 
-<img src="images/JB3-Assy_10-1.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_10-1b.jpg" witdh="120" height="120">
-<img src="images/JB3-Assy_10-2.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_10-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_10-4.JPG" witdh="120" height="120">
+
+1. Secure 6pin right angle header to piOLED by some method
+
+2. Solder the pins depicted (3.3V, SDA, SCK, GND on piOLED)
+    > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip
 
 ### Step 11 - Wire motor driver to *piOLED* display
 
