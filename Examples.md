@@ -34,9 +34,9 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 1 - Collect data on JetBot
 
-<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
-
 > We provide a pre-trained model so you can skip to step 3 if desired.
+
+<a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
 1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
 
