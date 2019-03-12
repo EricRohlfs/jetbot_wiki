@@ -7,6 +7,7 @@ To build JetBot you'll need the following tools
 ![Long-nose-pliers_Hakko](images/Long-nose-pliers_Hakko.jpg)![wire-stripper_hakko_30-20](images/wire-stripper_hakko_30-20.jpg)![screw-driver-set_63](images/screw-driver-set_63.jpg)![soldering-iron-station](images/soldering-iron-station.jpg)![XOOL-Tweezers](images/XOOL-Tweezers.jpg)
 
 * Pliers
+
 * Wire flush cutters/wire stripper
 * Phillips screwdriver (+ Hex screwdriver for M2 hex socket screws)
 * Soldering iron and solder
@@ -23,6 +24,7 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_01-4.JPG" witdh="120" height="120">
 
 1. Remove support material from motor sockets using pliers
+
 2. Remove support material from all surfaces and openings using pliers, tweezers, and/or fingernails
 3. File material from openings if they are too tight
 
