@@ -2,7 +2,7 @@ This page lists the examples provided with JetBot
 
 > Make sure your robot is connected to WiFi as described in the [software setup](software-setup)
 
-### 1. Basic Motion
+### Example 1 - Basic Motion
 
 In this example we'll control JetBot by programming from a web browser.
 
@@ -11,7 +11,7 @@ In this example we'll control JetBot by programming from a web browser.
 2. Navigate to ``~/Notebooks/basic_motion/``
 3. Open and follow the ``basic_motion.ipynb`` notebook
 
-### 2. Teleoperation
+### Example 2 - Teleoperation
 
 > This example requires a gamepad controller connected to your workstation.
 
@@ -23,7 +23,7 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 3. Navigate to ``~/Notebooks/teleoperation/``
 3. Open and follow the ``teleoperation.ipynb`` notebook
 
-### 3. Collision avoidance
+### Example 3 - Collision avoidance
 
 In this example we'll collect an *image classification* dataset that will be used to help keep
 JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked``.  We'll use this AI classifier to prevent JetBot from entering dangerous territory.
