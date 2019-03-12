@@ -17,11 +17,11 @@ To build JetBot you'll need the following tools
 
 ### Step 1 - Clean 3D printed parts
 
-<img src="images/JB3-Assy_01-1.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_01-2.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_01-3.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_01-5.JPG" witdh="120" height="120">
-<img src="images/JB3-Assy_01-4.JPG" witdh="120" height="120">
+<a href="images/JB3-Assy_01-1.JPG"><img src="images/JB3-Assy_01-1.JPG" witdh="120" height="120"></a>
+<a href="images/JB3-Assy_01-2.JPG"><img src="images/JB3-Assy_01-2.JPG" witdh="120" height="120"></a>
+<a href="images/JB3-Assy_01-3.JPG"><img src="images/JB3-Assy_01-3.JPG" witdh="120" height="120"></a>
+<a href="images/JB3-Assy_01-5.JPG"><img src="images/JB3-Assy_01-5.JPG" witdh="120" height="120"></a>
+<a href="images/JB3-Assy_01-4.JPG"><img src="images/JB3-Assy_01-4.JPG" witdh="120" height="120"></a>
 
 1. Remove support material from motor sockets using pliers
 
