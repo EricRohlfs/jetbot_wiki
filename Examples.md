@@ -54,11 +54,20 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 4. Open and follow the ``live_demo.ipynb`` notebook
 
 
-### What's next?
+## Next
 
-Can you use deep learning to teach JetBot something new?
+Make JetBot smarter!
 
-Share it with us:
+* Collect more collision avoidance data
+* Try out new neural network architectures (the [torchvision](https://pytorch.org/docs/stable/torchvision/models.html) packages has lots!)
+* Modify the collision avoidance example for a new task (ie: ``cat`` / ``no cat``.  if ``cat`` then ``run``!)
+
+Make something new!
+
+* Copy and modify the collision avoidance example for your own task!
+* Try out some new hardware with Jetson Nano.  It's easy easy with [Jetson GPIO](#) and [Adafruit Blinka](#).
+
+Share it with us
 
 * [Discord chat channel](#)
 * [NVIDIA Developer Forums](#)
