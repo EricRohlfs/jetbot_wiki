@@ -50,6 +50,11 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_03-4.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_03-5.JPG" witdh="120" height="120">
 
+1. Break away 3pin and 2pin male headers from header link that comes with motor driver package
+2. Join two of the screw terminal blocks to create a 4pin screw terminal
+3. Solder the 2pin and 4pin screw terminals to motor driver
+4. Solder the 2pin and 3pin male headers to motor driver
+
 ### Step 4 - Strip motor driver power cable
 
 <img src="images/JB3-Assy_04-1.JPG" witdh="120" height="120">
