@@ -224,6 +224,12 @@ To build JetBot you'll need the following tools
 
 1. Route USB cables through chassis to organize and prevent dragging
 
+## Finished JetBot
+
+Once finished, your JetBot should look similar to this.
+
+<img src="images/JB3-Assy_16-4.JPG" witdh="120" height="120">
+
 # Next step
 
 Follow the [software-setup](software-setup) guide.
