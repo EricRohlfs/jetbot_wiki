@@ -50,10 +50,16 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_03-4.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_03-5.JPG" witdh="120" height="120">
 
+
 1. Break away 3pin and 2pin male headers from header link that comes with motor driver package
+
 2. Join two of the screw terminal blocks to create a 4pin screw terminal
 3. Solder the 2pin and 4pin screw terminals to motor driver
 4. Solder the 2pin and 3pin male headers to motor driver
+
+    > Pay careful attention to the position of the 3pin header.  It is 
+    offset by 1pin from the corner.
+
 
 ### Step 4 - Strip motor driver power cable
 
@@ -62,6 +68,17 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_04-4.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_04-3.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_04-5.JPG" witdh="120" height="120">
+
+1. Cut the depicted micro USB cable roughly 8 inches from the type-A terminal
+
+    > Pay careful attention to the image.  The cables are not identical.  The other micro USB cable will be used to power the Jetson Nano.  Using the wrong power cable for Nano will block it's Ethernet port.
+
+2. Strip the rubber coating 1 inch from the cut
+    
+    > Be careful not to cut through the cable.
+3. Remove the green / white wires and metal shielding.
+4. Strip the red and black wires about 1/4 inch from cut
+5. (optional) Twist the exposed strand wire and coat with solder
 
 ### Step 5 - Mount motor driver 
 
