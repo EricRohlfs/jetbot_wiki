@@ -120,7 +120,7 @@ To build JetBot you'll need the following tools
 1. Remove standoff screws from Jetson Nano module
 
 2. Release the side latches of SODIMM connector using hands
-3. Slide Jetson Nano out of SODIMM connector
+3. Slide Jetson Nano module out of SODIMM connector
 
 ### Step 8 - Attach WiFi module to developer kit
 
