@@ -68,6 +68,8 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 <a href="images/JL03c_Live-demo.png"><img src="images/JL03c_Live-demo.png" witdh="640"></a>
 
+<video src="videos/Launching-of-JetBots.MOV" width="640" controls preload></video>
+
 ### Example 4 - Object Following
 
 In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
