@@ -67,7 +67,7 @@ Make JetBot smarter!
 * Try out different neural network architectures (the [torchvision](https://pytorch.org/docs/stable/torchvision/models.html) package has lots!)
 * Modify the collision avoidance example for a new task (ie: ``cat`` / ``no cat``.  if ``cat`` then ``run``)
 
-Make something new!
+Create something entirely new!
 
 * Copy and modify the collision avoidance example for your own project
 * Try out some new hardware with Jetson Nano.  It's easy with [Jetson GPIO](#) and [Adafruit Blinka](#)
