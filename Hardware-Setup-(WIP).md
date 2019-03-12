@@ -133,7 +133,7 @@ To build JetBot you'll need the following tools
 
 1. Attach developer kit to chassis using self taping screws
 
-2. Clip antennae to WiFi module using fingers
+2. Snap antennae on to WiFi module using fingers
 3. Remove the screw from developer kit by the M.2 socket
 4. Insert WiFi module into M.2 slot on developer kit
 5. Fasten WiFi module to developer kit with screw removed in (3)
