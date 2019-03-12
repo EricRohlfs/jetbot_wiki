@@ -59,7 +59,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 Make JetBot smarter!
 
 * Collect more collision avoidance data
-* Try out different neural network architectures (the [torchvision](https://pytorch.org/docs/stable/torchvision/models.html) packages has lots!)
+* Try out different neural network architectures (the [torchvision](https://pytorch.org/docs/stable/torchvision/models.html) package has lots!)
 * Modify the collision avoidance example for a new task (ie: ``cat`` / ``no cat``.  if ``cat`` then ``run``)
 
 Make something new!
