@@ -25,7 +25,7 @@ To build JetBot you'll need the following tools
 
 1. Remove support material from motor sockets using pliers
 
-2. Remove support material from all surfaces and openings using pliers, tweezers, and/or fingernails
+2. Remove support material from all surfaces, openings and screw holes using pliers, tweezers, and/or fingernails
 3. File material from openings if they are too tight
 
 ### Step 2 - Mount motors
@@ -36,7 +36,7 @@ To build JetBot you'll need the following tools
 <a href="images/JB3-Assy_02-4.JPG"><img src="images/JB3-Assy_02-4.JPG" witdh="120" height="120"></a>
 <a href="images/JB3-Assy_02-5.JPG"><img src="images/JB3-Assy_02-5.JPG" witdh="120" height="120"></a>
 
-1. Cut and remove the wire securing zip ties from each motor
+1. Cut and remove the zip tie from each motor
 
 2. Tuck the wires beneath transparent band to prevent stress on solder joints
 3. Insert each motor into the 3D printed chassis
@@ -90,7 +90,7 @@ To build JetBot you'll need the following tools
 
 1. Route the spliced cable through chassis
 
-2. Secure exposed red (+) and black (-) wires to screw terminals depicted
+2. Secure exposed red (+) and black (-) wires to the power terminals on motor driver
     > Pay attention to the markings on the motor driver.  Incorrect wiring could damage the driver.
 3. Route the spliced cable under the motor driver to organize and prevent stress on screw terminal
 4. Secure motor driver to chassis using self taping screws
@@ -120,6 +120,7 @@ To build JetBot you'll need the following tools
 1. Remove standoff screws from Jetson Nano module
 
 2. Release the side latches of SODIMM connector using hands
+3. Slide Jetson Nano out of SODIMM connector
 
 ### Step 8 - Attach WiFi module to developer kit
 
@@ -132,7 +133,7 @@ To build JetBot you'll need the following tools
 
 1. Attach developer kit to chassis using self taping screws
 
-2. Attach both antennae to WiFi module using fingers
+2. Snap antennae on to WiFi module using fingers
 3. Remove the screw from developer kit by the M.2 socket
 4. Insert WiFi module into M.2 slot on developer kit
 5. Fasten WiFi module to developer kit with screw removed in (3)
@@ -159,8 +160,8 @@ To build JetBot you'll need the following tools
 
 1. Secure 6pin right angle header to piOLED by some method
 
-2. Solder the pins depicted (3.3V, SDA, SCL, GND on piOLED)
-    > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip
+2. Solder the pins depicted (3.3V, SDA, SCL, and GND solder seen when zoomed in on right image)
+    > The pins are close to the display screen, be careful to avoid the screen with soldering iron tip. 
 
 ### Step 11 - Wire motor driver to *piOLED* display
 

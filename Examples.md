@@ -38,12 +38,17 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance/``
 4. Open and follow the ``data_collection.ipynb`` notebook
 
-#### Step 2 - Train neural network on GPU machine
+#### Step 2 - Train neural network on cloud
 
-1. Connect to your training machine by navigating to ``http://<training_machine_ip_address>:8888``
+1. Navigate to ``https://courses.nvidia.com/dli-event`` in your web browser
 
-2. Navigate to ``~/collision_avoidance/``
-3. Open and follow the ``train_model.ipynb`` notebook
+2. Enter the event code ``DLI_Jet_Demo``
+3. Sign in to your NVIDIA Developer Account if you have not already
+4. Select ``View Course`` -> ``Course`` -> ``Click here to begin`` -> ``Start``
+5. Wait a few minutes for the cloud training machine to set up
+6. Launch the Jupyter Lab by selecting ``Launch Task``
+7. In the Jupyter Lab tab, navigate to ``~/collision_avoidance``
+8. Open and follow the ``train_model.ipynb`` notebook
 
 #### Step 3 - Run live demo on JetBot
 
@@ -53,23 +58,32 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
 
+### Example 4 - Object Following
+
+In this example we'll have JetBot follow an object using a pre-trained model capable of detecting common objects like``Person``, ``Cup``, and ``Dog``.  While doing this, JetBot will run the collision avoidance model from Example 3 to make sure it stays safe!
+
+1. Connect to your robot by navigating to ``http://<jetbot_ip_address>:8888``
+
+2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
+3. Navigate to ``~/Notebooks/object_following/``
+4. Open and follow the ``live_demo.ipynb`` notebook
 
 ## Next
 
-Make JetBot smarter!
+Make JetBot smarter
 
 * Collect more collision avoidance data
 * Try out different neural network architectures (the [torchvision](https://pytorch.org/docs/stable/torchvision/models.html) package has lots!)
 * Modify the collision avoidance example for a new task (ie: ``cat`` / ``no cat``.  if ``cat`` then ``run``)
 
-Make something new!
+Create something entirely new!
 
-* Copy and modify the collision avoidance example for your own project
+* Modify the collision avoidance example for your own project
 * Try out some new hardware with Jetson Nano.  It's easy with [Jetson GPIO](#) and [Adafruit Blinka](#)
 
 Share it with us
 
-* [Discord chat channel](#)
+* [JetBot chat channel](#)
 * [NVIDIA Developer Forums](#)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Examples/?pixel)](https://github.com/igrigorik/ga-beacon)
