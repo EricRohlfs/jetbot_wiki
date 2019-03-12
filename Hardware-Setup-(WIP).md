@@ -228,7 +228,7 @@ To build JetBot you'll need the following tools
 
 Once finished, your JetBot should look similar to this.
 
-<img src="images/JB3-Assy_16-4.JPG" witdh="120" height="120">
+<img src="images/JB3-Assy_16-5.JPG" witdh="120" height="120">
 
 # Next step
 
