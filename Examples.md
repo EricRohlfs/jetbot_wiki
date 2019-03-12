@@ -11,7 +11,7 @@ In this example we'll control JetBot by programming from a web browser.
 2. Navigate to ``~/Notebooks/basic_motion/``
 3. Open and follow the ``basic_motion.ipynb`` notebook
 
-<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion_thumb.png" witdh="640"></a>
+<a href="images/JL01_Basic-Motion.png"><img src="images/JL01_Basic-Motion.png" witdh="640"></a>
 
 ### Example 2 - Teleoperation
 
