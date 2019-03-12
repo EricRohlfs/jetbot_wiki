@@ -25,7 +25,7 @@ To build JetBot you'll need the following tools
 
 1. Remove support material from motor sockets using pliers
 
-2. Remove support material from all surfaces and openings using pliers, tweezers, and/or fingernails
+2. Remove support material from all surfaces, openings and screw holes using pliers, tweezers, and/or fingernails
 3. File material from openings if they are too tight
 
 ### Step 2 - Mount motors
