@@ -74,8 +74,6 @@ To build JetBot you'll need the following tools
     > Pay careful attention to the image.  The cables are not identical.  The other micro USB cable will be used to power the Jetson Nano.  Using the wrong power cable for Nano will block it's Ethernet port.
 
 2. Strip the rubber coating 1 inch from the cut
-    
-    > Be careful not to cut through the cable.
 3. Remove the green / white wires and metal shielding.
 4. Strip the red and black wires about 1/4 inch from cut
 5. (optional) Twist the exposed strand wire and coat with solder
@@ -88,6 +86,15 @@ To build JetBot you'll need the following tools
 <img src="images/JB3-Assy_05-4.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_05-5.JPG" witdh="120" height="120">
 <img src="images/JB3-Assy_05-6.JPG" witdh="120" height="120">
+
+1. Route the spliced cable through chassis
+
+2. Secure exposed red (+) and black (-) wires to screw terminals depicted
+    > Pay attention to the markings on the motor driver.  Incorrect wiring could damage the driver.
+3. Route the spliced cable under the motor driver to organize and prevent stress on screw terminal
+4. Secure motor driver to chassis using self taping screws
+5. Secure left and right motor wires to motor screw terminals
+    > ***Notice (3/11/2019):*** The red / black wires for the left and right motor are actually flipped in the image.  This will not cause damage, but the motors will spin backwards.
 
 ### Step 6 - Mount WiFi antennae 
 
