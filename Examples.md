@@ -1,4 +1,4 @@
-This page lists the examples provided with JetBot
+This page lists the examples provided with JetBot.
 
 > Make sure your robot is connected to WiFi as described in the [software setup](software-setup)
 
@@ -13,6 +13,7 @@ In this example we'll control JetBot by programming from a web browser.
 2. Sign in with the default password ``jetbot``
 3. Navigate to ``~/Notebooks/basic_motion/``
 4. Open and follow the ``basic_motion.ipynb`` notebook
+    > Make sure JetBot has enough space to move around.
 
 ### Example 2 - Teleoperation
 
@@ -72,6 +73,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/collision_avoidance``
 4. Open and follow the ``live_demo.ipynb`` notebook
+    > Start cautious and give JetBot enough space to move around.
 
 #### Video
 
