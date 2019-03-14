@@ -92,6 +92,7 @@ In this example we'll have JetBot follow an object using a pre-trained model cap
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/object_following/``
 4. Open and follow the ``live_demo.ipynb`` notebook
+    > Start cautious and give JetBot enough space to move around.
 
 #### Video
 
