@@ -1,6 +1,6 @@
 This page has tips related to battery charging and usage for [this battery](https://amzn.to/2WRcIUe).
 
-### Best charging practice=
+### Best charging practice
 
 We suggest the following practice for charging your battery
 
