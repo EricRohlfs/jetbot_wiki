@@ -1,7 +1,7 @@
 This page details everything needed to assemble your JetBot.  
 
 
-> **Please go through the [Getting Started with Jetson Nano Developer Kit](https://docs.google.com/document/d/1-JJpbVedCQf_nqYcPu4cTmoz3a1-GgSz6seSPA8xBPQ/edit?usp=sharing) first on Jetson Nano Developer Kit alone, before putting Jetson Nano Developer Kit on the robot. **
+> **Please go through the [Getting Started with Jetson Nano Developer Kit](https://docs.google.com/document/d/1-JJpbVedCQf_nqYcPu4cTmoz3a1-GgSz6seSPA8xBPQ/edit?usp=sharing) first on Jetson Nano Developer Kit alone, before putting Jetson Nano Developer Kit on the robot.**
 
 ----
 
