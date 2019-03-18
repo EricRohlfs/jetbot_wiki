@@ -1,4 +1,6 @@
-Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot. 
+Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot.
+
+We'll take you through all the steps from hardware and software setup to hands on tutorials where you will use AI to enable JetBot to avoid collisions, follow objects and more.
 
 If you run into any issues, please [let us know](../../issues)!
 
