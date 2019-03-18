@@ -2,18 +2,18 @@ This page has tips related to battery charging and usage for [this battery](http
 
 ### Best charging practice
 
-We suggest the following practice for charging your battery
+We recommend the following steps for charging your battery
 
 1. Shutdown JetBot (from Jupyter Lab terminal)
 
     ```bash
     sudo shutdown now
     ```
-2. Unplug Jetson Nano and Motor driver from battery pack
-3. Insert charger into battery pack
-4. Wait for battery to charge
-5. Unplug charger from battery pack
-6. Plug Jetson Nano and Motor driver back into battery pack
+2. Unplug Jetson Nano and the motor driver the from battery pack
+3. Insert the charger into the battery pack
+4. Wait for the battery to charge
+5. Unplug the charger from the battery pack
+6. Plug Jetson Nano and the motor driver back into battery pack
 
 ### Prevent high current shutdown
 
