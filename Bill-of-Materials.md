@@ -39,9 +39,14 @@ In addition to the components above, you'll need these components for each JetBo
 
 ## Alternative component
 
+Below are some alternatives to some components in the above bill of materials.
+
+
 ### Camera
 
 Instead of the above Leopard Imaging's Wide FoV CSI camera, you could use the combination of Raspberry Pi Camera Module **V2** and the Wide FoV conversion lens (and sensor).
+
+> The camera solution below has a slightly different field of view, so may not work identically to that listed above.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
@@ -50,7 +55,7 @@ Instead of the above Leopard Imaging's Wide FoV CSI camera, you could use the co
 
 ### Wifi
 
-Instead of the M.2 Wi-Fi card (and patch antennas), you can use the Wi-Fi dongle like below.
+Instead of the M.2 Wi-Fi card and patch antennas, you can use the Wi-Fi dongle below.  The performance may vary from the WiFi card specified above.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
