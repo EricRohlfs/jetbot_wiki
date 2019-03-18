@@ -97,7 +97,7 @@ To build JetBot you'll need the following tools
 5. Secure left and right motor wires to motor screw terminals
     > ***Notice (3/11/2019):*** We made a slight mistake: the red and black wires for the left and right motor are actually flipped in the image shown above.  This will not cause damage, but the motors will spin backwards.  Please flip them to the correct orientation.
 
-### Step 6 - Mount WiFi antennae 
+### Step 6 - Mount WiFi antennas
 
 <a href="images/JB3-Assy_06-0.JPG"><img src="images/JB3-Assy_06-0.JPG" witdh="120" height="120"></a>
 <a href="images/JB3-Assy_07-1.JPG"><img src="images/JB3-Assy_07-1.JPG" witdh="120" height="120"></a>
