@@ -73,10 +73,10 @@ To build JetBot you'll need the following tools
 
     > Pay careful attention to the image.  The cables are not identical.  The other micro USB cable will be used to power the Jetson Nano.  Using the wrong power cable for Nano will block it's Ethernet port.
 
-2. Cut the depicted cable roughly 8 inches from the type-A terminal
-2. Strip the rubber coating 1 inch from the cut
+2. Cut the depicted cable roughly ~20cm from the type-A terminal
+2. Strip the rubber coating ~3cm from the cut
 3. Remove the green / white wires and metal shielding.
-4. Strip the red and black wires about 1/4 inch from cut
+4. Strip the red and black wires about ~5mm from cut
 5. (optional) Twist the exposed strand wire and coat with solder
 
 ### Step 5 - Mount motor driver 
