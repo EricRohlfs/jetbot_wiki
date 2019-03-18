@@ -2,7 +2,7 @@ This page details how to create the JetBot SD card image from scratch.
 
 This is useful in case you want to distribute a modified version of the JetBot SD card image.
 
-1. Flash SD card by following Jetson Nano getting started guide.  
+1. Flash SD card by following [Getting Started with Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit).  
     * Use the username / password ``jetbot`` / ``jetbot``
     * Make sure to ``log in automatically``
 2. Insert SD card into Jetson Nano and power on
@@ -49,7 +49,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```bash
     cd
     sudo apt install python3-smbus
-    git clone https://github.com/NVIDIA-AI-IOT-private/jetbot
+    git clone https://github.com/NVIDIA-AI-IOT/jetbot
     cd jetbot
     sudo apt-get install cmake
     sudo python3 setup.py install
