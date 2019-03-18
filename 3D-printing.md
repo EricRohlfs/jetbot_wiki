@@ -59,3 +59,6 @@ that can print the chassis for you.  Below are some quotes from popular 3D print
 | [3DHubs](https://www.3dhubs.com/) | $36.66 |
 | [Jinxbot](https://jinxbot.com/) | $91.42 |
 | [Sculpteo](https://www.sculpteo.com/) | ~$100 |
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/3D-printing/?pixel)](https://github.com/igrigorik/ga-beacon)
