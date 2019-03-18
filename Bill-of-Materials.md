@@ -24,8 +24,7 @@ In addition to the components above, you'll need these components for each JetBo
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
-|  Camera | IMX219 | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) |
-|  Camera lens attachment | 160-degree FoV lens | 1 | $18.99 | [Amazon1](https://amzn.com/B07HMXJ9Y1), [2](https://amzn.com/B07HF81BVL/),  [eBay](https://ebay.us/Fz7HGd) | 
+|  Wide FoV CSI Camera | "LI-IMX219-MIPI-FF-NANO" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
 |  Wi-Fi card | Intel Wireless-AC 8265 | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | 
 |  Wi-Fi antenna | U.FL connectors | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | 
 |  Motor | "TT motor" with 200RPM gearbox | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon1](https://amzn.to/2MYln32), [2](https://amzn.to/2MU9zPb) | 
@@ -36,7 +35,27 @@ In addition to the components above, you'll need these components for each JetBo
 |  USB cables | Right Angle 2-pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) |
 |  PiOLED display | 128x32 OLED | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |
 |  Righe-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
-|   |  |  | **$147.93** |  |
+|   |  |  | **$134.04** |  |
+
+## Alternative component
+
+### Camera
+
+Instead of the above Leopard Imaging's Wide FoV CSI camera, you could use the combination of Raspberry Pi Camera Module **V2** and the Wide FoV conversion lens (and sensor).
+
+|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
+| --- | --- | --: | --: | --- |
+|  Camera | Raspberry Pi Camera Module V2-8 Megapixel (IMX219) | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) |
+|  Camera lens attachment | 160-degree FoV lens | 1 | $18.99 | [Amazon1](https://amzn.com/B07HMXJ9Y1), [2](https://amzn.com/B07HF81BVL/),  [eBay](https://ebay.us/Fz7HGd) | 
+
+### Wifi
+
+Instead of the M.2 Wi-Fi card (and patch antennas), you can use the Wi-Fi dongle like below.
+
+|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
+| --- | --- | --: | --: | --- |
+|  Edimax EW-7811Un | RTL8192U chipset | 1 | $9.99 | [Amazon](https://amzn.com/B003MTTJOY/) |
+
 
 ## Assembly hardware
 
@@ -56,10 +75,10 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 
 The following parts must be 3D printed for each JetBot chassis.
 
-* [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
-* [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
-* [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
+* [Chassis](../../blob/master/assets/chassis.stl)
+* [Caster Base](../../blob/master/assets/caster_base.stl)
+* [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
+* [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
 
 If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
 

@@ -7,10 +7,10 @@ This page has useful information related to 3D printing the JetBot chassis.  The
 
 The following parts must be printed for each JetBot chassis.
 
-* [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
-* [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
-* [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
+* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
+* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
+* [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
+* [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
 
 ## Method 1 - Print by yourself
 
@@ -59,3 +59,6 @@ that can print the chassis for you.  Below are some quotes from popular 3D print
 | [3DHubs](https://www.3dhubs.com/) | $36.66 |
 | [Jinxbot](https://jinxbot.com/) | $91.42 |
 | [Sculpteo](https://www.sculpteo.com/) | ~$100 |
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/3D-printing/?pixel)](https://github.com/igrigorik/ga-beacon)

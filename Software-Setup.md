@@ -2,7 +2,9 @@ This page details the software setup required to run JetBot.
 
 ### Step 1 - Flash JetBot image onto SD card
 
-1. Download the JetBot SD card image [jetbot_image_v0p3p0.zip](https://drive.google.com/file/d/19AtDdsbMN-xoKSzh1ZsBh9T4RTnzSmQh/view?usp=sharing)
+1. Download the JetBot SD card image ``jetbot_image_v0p3p0.zip``
+
+> We will release the SD card image on the week of 3/25.
 
 2. Insert a 64GB+ SD card into your desktop machine
 3. Using [Etcher](https://www.balena.io/etcher/), flash the ``jetbot_image_v0p3p0.zip`` image onto the SD card 
@@ -62,7 +64,7 @@ on the SD card image.  To install the latest software:
     rsync jetbot/notebooks/robot ~/Notebooks
     ```
 
-### Step 6 - Configure power mode (optional, recommended)
+### Step 6 - Configure power mode
 
 To ensure that the Jetson Nano doesn't draw more current than the battery pack can supply,
 place the Jetson Nano in ``5W`` mode by calling the following command
