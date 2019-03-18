@@ -35,7 +35,7 @@ In addition to the components above, you'll need these components for each JetBo
 |  USB cables | Right Angle 2-pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) |
 |  PiOLED display | 128x32 OLED | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |
 |  Righe-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
-|   |  |  | **$147.93** |  |
+|   |  |  | **$134.04** |  |
 
 ## Alternative component
 
