@@ -1,13 +1,8 @@
 This page has tips related to battery charging and usage for [this battery](https://amzn.to/2WRcIUe).
 
-### Battery caveats
+### Best charging practice=
 
-* Outputs will momentarily power down when charger is inserted or removed
-
-* Outputs may power down when charger is connected.
-
-### Best charging practice
-Given the above battery caveats, we suggest the following practice for charging your battery
+We suggest the following practice for charging your battery
 
 1. Shutdown JetBot (from Jupyter Lab terminal)
 
