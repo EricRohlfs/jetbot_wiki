@@ -1,4 +1,4 @@
-This page has useful information related to 3D printing the JetBot chassis.  There are two methods for printing JetBot
+This page has useful information related to printing the JetBot chassis using a 3D printer.  There are two methods for printing JetBot
 
 * Print by yourself
 * Use a printing service
@@ -14,11 +14,11 @@ The following parts must be printed for each JetBot chassis.
 
 ## Method 1 - Print by yourself
 
-If you have a 3D printer on hand, we recommend printing the JetBot components yourself!
+If you have a 3D printer, we recommend printing the JetBot components yourself!
 
 ### Print facts
 
-Below are some facts related to printing a single JetBot
+Below are some facts related to printing a single JetBot.
 
 * Print time:  10-12 hours
 * Material used:  < 100 grams
@@ -26,7 +26,7 @@ Below are some facts related to printing a single JetBot
 
 ### Tested Printers
 
-We've tested that the following printers are able to print JetBot
+We've tested that the following printers are able to print JetBot successfully.
 
 | Model | Cost | URL |
 |------------|------|---|
