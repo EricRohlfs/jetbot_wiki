@@ -7,10 +7,10 @@ This page has useful information related to 3D printing the JetBot chassis.  The
 
 The following parts must be printed for each JetBot chassis.
 
-* [Chassis](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/chassis.stl)
-* [Caster Base](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/caster_shroud.stl)
-* [Camera Mount](https://github.com/NVIDIA-AI-IOT-private/jetbot/blob/master/assets/camera_mount.stl)
+* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
+* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
+* [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
+* [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
 
 ## Method 1 - Print by yourself
 
