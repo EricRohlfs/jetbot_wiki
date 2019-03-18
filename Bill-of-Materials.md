@@ -75,8 +75,8 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 
 The following parts must be 3D printed for each JetBot chassis.
 
-* [Chassis](../../blob/master/assets/chassis.stl)
-* [Caster Base](../../blob/master/assets/caster_base.stl)
+* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
+* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
 * [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
 * [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
 
