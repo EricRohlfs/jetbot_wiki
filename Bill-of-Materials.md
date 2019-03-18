@@ -4,7 +4,7 @@ This page lists everything you need to build JetBot along with purchasing links 
 
 ## Jetson Nano Essentials
 
-First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you probably have them on hand.
+First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you may have some of them on hand.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
