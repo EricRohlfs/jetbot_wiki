@@ -45,6 +45,18 @@ of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbU
 | AmazonBasics | 1.75mm | PLA | Yellow | [Amazon](#) | Bold yellow, slightly translucent |
 | AmazonBasics | 1.75mm | PLA | Purple | [Amazon](#) | Smooth, pale finish |
 
+### Printing and slicing configuration
+
+* STL unit: **mm**
+
+* Print orientation
+
+<a href="images/Cura-Print-Setup_overall.png"><img src="Cura-Print-Setup_overall.png" height="480"></a>
+
+* Slice configuration (Cura)
+
+<img src="images/Cura-Print-Setup_Detail_Express.png" >
+
 ## Method 2 - Use a printing service
 
 If you don't have a 3D printer on hand, and are not interested in purchasing one, there are external services
