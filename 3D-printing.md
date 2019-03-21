@@ -51,7 +51,7 @@ of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbU
 
 * Print orientation
 
-<a href="images/Cura-Print-Setup_overall.png"><img src="images/Cura-Print-Setup_overall.png" width="640" height="480"></a>
+<a href="images/Cura-Print-Setup_overall.png"><img src="images/Cura-Print-Setup_overall.png" width="800" height="480"></a>
 
 * Slice configuration (Cura)
 
