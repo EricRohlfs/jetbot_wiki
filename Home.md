@@ -1,4 +1,6 @@
-Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot. 
+Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot.
+
+We'll take you through all the steps from hardware and software setup to hands on tutorials where you will use AI to enable JetBot to avoid collisions, follow objects and more.
 
 If you run into any issues, please [let us know](../../issues)!
 
@@ -6,7 +8,7 @@ Happy JetBotting :)
 
 ### Getting started
 
-> Note:  If you're new to Jetson Nano, we recommend following the [Getting Started with Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) before moving forward with the JetBot setup.  This will make sure you're familiar with the standard Jetson Nano usage.
+> We recommend following the [Getting Started with Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) guide before moving on to the JetBot project.  This will make sure you are familiar with the Jetson Nano and standard operation.
 
 Follow these steps and you should be up and running with JetBot in no time!
 
@@ -19,11 +21,11 @@ Follow these steps and you should be up and running with JetBot in no time!
 
 Ask a question, make a suggestion, share a project...
 
-* Join the [chat server](https://discord.gg/Ady6NtF)
+<!--* Join the [chat server](https://discord.gg/Ady6NtF)-->
 * Create an [issue](../../issues)
 * Share your project on the [forum](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
 
-### Useful stuff
+### Useful information
 
 * [Battery tips](battery-tips)
 * [3D printing](3D-printing)

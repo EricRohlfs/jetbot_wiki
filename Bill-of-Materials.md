@@ -4,14 +4,14 @@ This page lists everything you need to build JetBot along with purchasing links 
 
 ## Jetson Nano Essentials
 
-First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you probably have them on hand.
+First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you may have some of them on hand.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
 |  Jetson Nano |  | 1 | $99.00 |  |
 |  Micro SD card | 64GB | 1 | $13.99 | [Amazon](https://amzn.to/2Us6bOv) |
 |  Power supply | Micro USB, 5V, 2.5A | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) |
-|   |  |  | **$112.99** |  |
+|   |  |  | **$120.49** |  |
 
 ## JetBot Components
 
@@ -24,7 +24,7 @@ In addition to the components above, you'll need these components for each JetBo
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
-|  Wide FoV CSI Camera | "LI-IMX219-MIPI-FF-NANO" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
+|  Camera | "LI-IMX219-MIPI-FF-NANO" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
 |  Wi-Fi card | Intel Wireless-AC 8265 | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | 
 |  Wi-Fi antenna | U.FL connectors | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | 
 |  Motor | "TT motor" with 200RPM gearbox | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon1](https://amzn.to/2MYln32), [2](https://amzn.to/2MU9zPb) | 
@@ -34,23 +34,28 @@ In addition to the components above, you'll need these components for each JetBo
 |  Battery | 2x 3A output, 10000mAh | 1 | $15.99 | [Amazon](https://amzn.to/2WRcIUe) |
 |  USB cables | Right Angle 2-pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) |
 |  PiOLED display | 128x32 OLED | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |
-|  Righe-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
+|  Right-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
 |   |  |  | **$134.04** |  |
 
-## Alternative component
+### Alternatives
 
-### Camera
+Below are some alternatives to some components in the above bill of materials.
+
+
+#### Camera
 
 Instead of the above Leopard Imaging's Wide FoV CSI camera, you could use the combination of Raspberry Pi Camera Module **V2** and the Wide FoV conversion lens (and sensor).
+
+> The camera solution below has a slightly different field of view, so may not work identically to that listed above.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
 |  Camera | Raspberry Pi Camera Module V2-8 Megapixel (IMX219) | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) |
 |  Camera lens attachment | 160-degree FoV lens | 1 | $18.99 | [Amazon1](https://amzn.com/B07HMXJ9Y1), [2](https://amzn.com/B07HF81BVL/),  [eBay](https://ebay.us/Fz7HGd) | 
 
-### Wifi
+#### Wifi
 
-Instead of the M.2 Wi-Fi card (and patch antennas), you can use the Wi-Fi dongle like below.
+Instead of the M.2 Wi-Fi card and patch antennas, you can use the Wi-Fi dongle below.  The performance may vary from the WiFi card specified above.
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
@@ -75,8 +80,8 @@ To assemble JetBot you'll also need these items below.  They come in packs so yo
 
 The following parts must be 3D printed for each JetBot chassis.
 
-* [Chassis](../../blob/master/assets/chassis.stl)
-* [Caster Base](../../blob/master/assets/caster_base.stl)
+* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
+* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
 * [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
 * [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
 
