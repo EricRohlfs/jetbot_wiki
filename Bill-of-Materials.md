@@ -20,7 +20,6 @@ In addition to the components above, you'll need these components for each JetBo
 > Some items may not ship internationally or be available from all vendors.  Here are some tips;
 > - You can check the spec of each item and search if there are any compatible substitutes
 > - Try different vendors to see if they ship internationally or have items in stock
-> - For battery, please check the [battery selection tips](battery-selection-tips)
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
