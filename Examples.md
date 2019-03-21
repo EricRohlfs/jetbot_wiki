@@ -115,7 +115,6 @@ Create something entirely new!
 
 Share it with us
 
-* [JetBot chat channel](#)
-* [NVIDIA Developer Forums](#)
+* [NVIDIA Developer Forums](https://devtalk.nvidia.com/default/board/372/jetson-projects/)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Examples/?pixel)](https://github.com/igrigorik/ga-beacon)
