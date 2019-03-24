@@ -63,7 +63,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
     sudo mv jetbot_stats.service /etc/systemd/system/jetbot_stats.service
     sudo systemctl enable jetbot_stats
     sudo systemctl start jetbot_stats
-    python3 create_jupyter_service
+    python3 create_jupyter_service.py
     sudo mv jetbot_jupyter.service /etc/systemd/system/jetbot_jupyter.service
     sudo systemctl enable jetbot_jupyter
     sudo systemctl start jetbot_jupyter
