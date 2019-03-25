@@ -37,7 +37,7 @@ JetBot safe!  We'll teach JetBot to detect two scenarios ``free`` and ``blocked`
 
 #### Step 1 - Collect data on JetBot
 
-> We provide a pre-trained model so you can skip to step 3 if desired.
+> We provide a [pre-trained model](https://drive.google.com/open?id=1UsRax8bR3R-e-0-80KfH2zAt-IyRPtnW) so you can skip to step 3 if desired.
 
 <a href="images/JL03a_Data-Collection.png"><img src="images/JL03a_Data-Collection.png" height="320"></a>
 
