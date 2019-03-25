@@ -113,7 +113,7 @@ Make JetBot smarter
 Create something entirely new!
 
 * Modify the collision avoidance example for your own project
-* Try out some new hardware with Jetson Nano.  It's easy with [Jetson GPIO](#) and [Adafruit Blinka](#)
+* Try out some new hardware with Jetson Nano.  It's easy with [Jetson GPIO](#) and [Adafruit Blinka](https://blog.adafruit.com/2019/03/18/adafruit-blinka-support-for-the-nvidia-jetson-series-nvidia-gtc19-nvidiaembedded/)
 
 Share it with us
 
