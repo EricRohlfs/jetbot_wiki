@@ -52,7 +52,7 @@ on the SD card image.  To install the latest software:
 3. Launch a new terminal
 2. Get and install the latest JetBot repository from GitHub by entering the following commands
     ```bash
-    git clone https://github.com/NVIDIA-AI-IOT-private/jetbot
+    git clone https://github.com/NVIDIA-AI-IOT/jetbot
     cd jetbot
     sudo python3 setup.py install
     ``` 
