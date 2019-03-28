@@ -80,8 +80,5 @@ This is useful in case you want to distribute a modified version of the JetBot S
     ```
     cp -r ~/jetbot/notebooks/robot ~/Notebooks
     ```
-10. Download [ssd_mobilenet_v2_coco.engine](https://drive.google.com/open?id=1RnNBHPDphIOWwHCSfeMCWQ7XN3w3tKFD) to ``~/Notebooks/object_following/ssd_mobilenet_v2_coco.engine``
-
-11. Download [best_model.pth](https://drive.google.com/open?id=1UsRax8bR3R-e-0-80KfH2zAt-IyRPtnW) to ``~/Notebooks/collision_avoidance/best_model.pth``
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Create-SD-Card-Image-From-Scratch/?pixel)](https://github.com/igrigorik/ga-beacon)
