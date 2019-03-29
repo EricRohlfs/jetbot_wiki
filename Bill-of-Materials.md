@@ -23,7 +23,7 @@ In addition to the components above, you'll need these components for each JetBo
 
 |  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
 | --- | --- | --: | --: | --- |
-|  Camera | "LI-IMX219-MIPI-FF-NANO" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
+|  Camera | "LI-IMX219-MIPI-FF-NANO-H145" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
 |  Wi-Fi card | Intel Wireless-AC 8265 | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | 
 |  Wi-Fi antenna | U.FL connectors | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | 
 |  Motor | "TT motor" with 200RPM gearbox | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon1](https://amzn.to/2MYln32), [2](https://amzn.to/2MU9zPb) | 
