@@ -3,15 +3,6 @@ This page has useful information related to printing the JetBot chassis using a 
 * Print by yourself
 * Use a printing service
 
-### 3D printed Components
-
-The following parts must be printed for each JetBot chassis.
-
-* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
-* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
-* [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
-
 ## Method 1 - Print by yourself
 
 If you have a 3D printer, we recommend printing the JetBot components yourself!
