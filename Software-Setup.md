@@ -59,7 +59,7 @@ on the SD card image.  To install the latest software:
     ``` 
 3. Replace the old notebooks with the new notebooks by entering
     ```bash
-    rsync jetbot/notebooks/robot ~/Notebooks
+    rsync jetbot/notebooks ~/Notebooks
     ```
 
 ### Step 6 - Configure power mode
