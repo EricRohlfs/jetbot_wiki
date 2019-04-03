@@ -78,7 +78,7 @@ This is useful in case you want to distribute a modified version of the JetBot S
 9. Copy JetBot notebooks to home directory
 
     ```
-    cp -r ~/jetbot/notebooks/robot ~/Notebooks
+    cp -r ~/jetbot/notebooks ~/Notebooks
     ```
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Create-SD-Card-Image-From-Scratch/?pixel)](https://github.com/igrigorik/ga-beacon)
