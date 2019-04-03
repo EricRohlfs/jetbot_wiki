@@ -1,95 +1,92 @@
-This page lists everything you need to build JetBot along with purchasing links from popular vendors.
+This page lists everything you need to build JetBot, along with purchasing links from popular vendors.
 
-<a name="Jetson-Nano-Essentials"/>
+Some of the parts are 3D printed.  We provide the STL files needed to print these parts.  Please see our [3d printing](3d-printing) page for tips on printing.
 
-## Jetson Nano Essentials
+### Common parts
 
-First, you'll need these components to use Jetson Nano Developer Kit.  If you're already working with Nano you may have some of them on hand.
+You need these components for each JetBot.
 
-|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
-| --- | --- | --: | --: | --- |
-|  Jetson Nano |  | 1 | $99.00 |  |
-|  Micro SD card | 64GB | 1 | $13.99 | [Amazon](https://amzn.to/2Us6bOv) |
-|  Power supply | Micro USB, 5V, 2.5A | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) |
-|   |  |  | **$120.49** |  |
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| Jetson Nano | 1 |  $99.00 | [NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)  |  |
+| Micro SD card | 1 | $13.99 | [Amazon](https://amzn.to/2Us6bOv) | 64GB |
+| Power supply | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) | Micro USB, 5V, 2.5A |
+| Motor | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon(1)](https://amzn.to/2MYln32), [Amazon(2)](https://amzn.to/2MU9zPb) | "TT" form factor |
+| Motor Driver | 1 | $19.95 | [Adafruit](http://adafru.it/2927), [Amazon](https://amzn.to/2GvJhBA) |  |
+| Caster ball | 1 | $6.30 | [Amazon](http://amzn.com/B01N2S7CX6/) | 1-inch diameter |
+| Battery | 1 | $15.99 | [Amazon](https://amzn.to/2WRcIUe) | 2x 5V/3A output, 10,000mAh |
+| USB cable pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) | Type A to Micro, right angle |
+| *PiOLED* display | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |  |
+| *PiOLED* header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) | 2x(3+) right angle male |
+| Chassis | 1 | -- | [STL file](../../blob/master/assets/chassis.stl) | see [3D printing](3d-printing) | |
+| Camera Mount | 1 | -- | [STL file](../../blob/master/assets/chassis.stl) | see [3D printing](3d-printing) |
 
-## JetBot Components
+### Camera
 
-In addition to the components above, you'll need these components for each JetBot that you want to build.
+You need a camera with appropriate sensor and field of view for each JetBot.  Select an option and get the parts specified.
 
-> Some items may not ship internationally or be available from all vendors.  Here are some tips;
-> - You can check the spec of each item and search if there are any compatible substitutes
-> - Try different vendors to see if they ship internationally or have items in stock
+#### Option 1 (default) - Leopard Imaging Camera
 
-|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
-| --- | --- | --: | --: | --- |
-|  Camera | "LI-IMX219-MIPI-FF-NANO-H145" | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) |
-|  Wi-Fi card | Intel Wireless-AC 8265 | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | 
-|  Wi-Fi antenna | U.FL connectors | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | 
-|  Motor | "TT motor" with 200RPM gearbox | 2 | $5.90 | [Adafruit](http://adafru.it/3777), [Amazon1](https://amzn.to/2MYln32), [2](https://amzn.to/2MU9zPb) | 
-|  Motor driver | TB6612, PCA9685 | 1 | $19.95 | [Adafruit](http://adafru.it/2927), [Amazon](https://amzn.to/2GvJhBA) |
-|  Wheel | 60mm wheel for "TT motor" | 2 | $5.00 | [Adafruit](http://adafru.it/3757 ) |
-|  Caster Ball | 1-inch POM ball | 1 | $6.30 | [Amazon](http://amzn.com/B01N2S7CX6/) |
-|  Battery | 2x 3A output, 10000mAh | 1 | $15.99 | [Amazon](https://amzn.to/2WRcIUe) |
-|  USB cables | Right Angle 2-pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) |
-|  PiOLED display | 128x32 OLED | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |
-|  Right-angle header (3 row) | 2x36 right angle header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) |
-|   |  |  | **$134.04** |  |
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| Camera | 1 | $29.00 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) | LI-IMX219-MIPI-FF-NANO-**H145**|
 
-### Alternatives
+#### Option 2 - RPi Camera V2 + Lens Attachment
 
-Below are some alternatives to some components in the above bill of materials.
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| Camera | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) | Raspberry Pi Camera V2 |
+| Camera lens attachment | 1 | $18.99 | [Amazon(1)](https://amzn.com/B07HMXJ9Y1), [Amazon(2)](https://amzn.com/B07HF81BVL/), [eBay](https://ebay.us/Fz7HGd) | 160-degree FoV |
 
+### WiFi
 
-#### Camera
+You need a WiFi solution for each JetBot.  Select an option and get the parts specified.
 
-Instead of the above Leopard Imaging's Wide FoV CSI camera, you could use the combination of Raspberry Pi Camera Module **V2** and the Wide FoV conversion lens (and sensor).
+#### Option 1 (default) - M2 Card + Antennas
 
-> The camera solution below has a slightly different field of view, so may not work identically to that listed above.
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| WiFi card | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) | M2, Intel Wireless-AC 8265 |
+| WiFi antenna | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) | U.FL connectors |
 
-|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
-| --- | --- | --: | --: | --- |
-|  Camera | Raspberry Pi Camera Module V2-8 Megapixel (IMX219) | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) |
-|  Camera lens attachment | 160-degree FoV lens | 1 | $18.99 | [Amazon1](https://amzn.com/B07HMXJ9Y1), [2](https://amzn.com/B07HF81BVL/),  [eBay](https://ebay.us/Fz7HGd) | 
+#### Option 2 - USB Dongle
 
-#### Wifi
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| WiFi Dongle | 1 | $9.99 | [Amazon](https://amzn.com/B003MTTJOY/) | RTL8192U chipset |
 
-Instead of the M.2 Wi-Fi card and patch antennas, you can use the Wi-Fi dongle below.  The performance may vary from the WiFi card specified above.
+### Wheels
 
-|  **Part** | **Specifications** | **Quantity** | **Cost** | **Purchase URL** |
-| --- | --- | --: | --: | --- |
-|  Edimax EW-7811Un | RTL8192U chipset | 1 | $9.99 | [Amazon](https://amzn.com/B003MTTJOY/) |
+You need wheels with a "TT" motor shaft connector for each JetBot.  Select an option and get the parts specified.
 
+#### Option 1 (default) - 65mm
 
-## Assembly hardware
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| Wheel | 2 | $3.00 | [Adafruit](https://www.adafruit.com/product/3763) | 65mm diameter |
+| Caster base | 1 | -- | [STL file](../../blob/master/assets/caster_base_65mm.stl) | for 65mm wheel|
+| Caster shroud | 1 | -- | [STL file](../../blob/master/assets/caster_shroud_65mm.stl) | for 65mm wheel |
 
-To assemble JetBot you'll also need these items below.  They come in packs so you won't need to order them for each robot.
+#### Option 2 - 60mm
 
-|  **Part** | **Specifications** | **Qty per JetBot** | **Qty per pack** | **Cost per JetBot** | **Purchase URL** |
+|  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
+| --- | --: | --: | --- | --- |
+| Wheel | 2 | $5.00 | [Adafruit](http://adafru.it/3757) | 60mm diameter |
+| Caster base | 1 | -- | [STL file](../../blob/master/assets/caster_base_60mm.stl) | for 60mm wheel |
+| Caster shroud | 1 | -- | [STL file](../../blob/master/assets/caster_shroud_60mm.stl) | for 60mm wheel |
+
+### Assembly Hardware
+
+You need the following parts to build JetBot.  They come in packs, so order the quantity you need for the number of JetBots you are going to build.
+
+|  **Part** | **Qty per JetBot** | **Qty per pack** | **Cost per JetBot** | **URL** | **Notes** |
 | --- | --- | --: | --: | --: | --- |
-|  Adhesive pads | | 2 | 48 | $0.14 | [Amazon](http://amzn.com/B01FIK56Q4) |
-|  M2 screw | M2x8, Slef tapping | 20 | 100 | $1.29 | [Amazon](http://amzn.com/B00YBMRAH4) |
-|  M2 washer|  | 20 | 200 | $0.65 | [Amazon](http://amzn.com/B01N576FRH) |
-|  M3 screw | M3x25mm | 4 | 60 | $0.47 | [Amazon](https://amzn.to/2tcdluk) |
-|  M3 nut | M3 | 4 | 100 | $0.24 | [Amazon](https://amzn.to/2tb8PMo) |
-|  Jumper wires | Female-female, 20cm/8-inch | 1 | 4 | $1.25 | [Amazon](https://amzn.to/2tacYQD) |
-|   |  |  |  | **$4.04** |  |
+|  Adhesive pads | 2 | 48 | $0.14 | [Amazon](http://amzn.com/B01FIK56Q4) | |
+|  M2 screw | 20 | 100 | $1.29 | [Amazon](http://amzn.com/B00YBMRAH4) | 8mm long, self tapping |
+|  M3 screw | 4 | 60 | $0.47 | [Amazon](https://amzn.to/2tcdluk) | 25mm long|
+|  M3 nut | 4 | 100 | $0.24 | [Amazon](https://amzn.to/2tb8PMo) |  |
+|  Jumper wires | 4 | 40 | $0.13 | [Amazon](https://amzn.to/2tacYQD) | Female-female, ~20cm |
 
-## 3D Printed Components
+### Next
 
-The following parts must be 3D printed for each JetBot chassis.
-
-* [Chassis](../../jetbot/blob/master/assets/chassis.stl)
-* [Caster Base](../../jetbot/blob/master/assets/caster_base.stl)
-* [Caster Shroud](../../jetbot/blob/master/assets/caster_shroud.stl)
-* [Camera Mount](../../jetbot/blob/master/assets/camera_mount.stl)
-
-If you have a 3D printer on hand, the material cost is very low.  Otherwise, you could use an external printing service.
-
-We provide more helpful information in the [3D printing](3d-printing) page.
-
-## Next step
-
-Follow the [hardware setup](Hardware-Setup).
-
-[![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Bill-of-Materials/?pixel)](https://github.com/igrigorik/ga-beacon)
+Follow the [hardware setup](hardware-setup).
