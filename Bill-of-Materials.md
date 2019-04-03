@@ -18,8 +18,8 @@ You need these components for each JetBot.
 | USB cable pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) | Type A to Micro, right angle |
 | *PiOLED* display | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |  |
 | *PiOLED* header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) | 2x(3+) right angle male |
-| Chassis | 1 | -- | [STL file](../../blob/master/assets/chassis.stl) | see [3D printing](3d-printing) | |
-| Camera Mount | 1 | -- | [STL file](../../blob/master/assets/chassis.stl) | see [3D printing](3d-printing) |
+| Chassis | 1 | -- | [STL file](../../jetbot/blob/master/assets/chassis.stl) | see [3D printing](3d-printing) | |
+| Camera Mount | 1 | -- | [STL file](../../jetbot/blob/master/assets/chassis.stl) | see [3D printing](3d-printing) |
 
 ### Camera
 
@@ -64,16 +64,16 @@ You need wheels with a "TT" motor shaft connector for each JetBot.  Select an op
 |  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
 | --- | --: | --: | --- | --- |
 | Wheel | 2 | $3.00 | [Adafruit](https://www.adafruit.com/product/3763) | 65mm diameter |
-| Caster base | 1 | -- | [STL file](../../blob/master/assets/caster_base_65mm.stl) | for 65mm wheel|
-| Caster shroud | 1 | -- | [STL file](../../blob/master/assets/caster_shroud_65mm.stl) | for 65mm wheel |
+| Caster base | 1 | -- | [STL file](../../jetbot/blob/master/assets/caster_base_65mm.stl) | for 65mm wheel|
+| Caster shroud | 1 | -- | [STL file](../../jetbot/blob/master/assets/caster_shroud_65mm.stl) | for 65mm wheel |
 
 #### Option 2 - 60mm
 
 |  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
 | --- | --: | --: | --- | --- |
 | Wheel | 2 | $5.00 | [Adafruit](http://adafru.it/3757) | 60mm diameter |
-| Caster base | 1 | -- | [STL file](../../blob/master/assets/caster_base_60mm.stl) | for 60mm wheel |
-| Caster shroud | 1 | -- | [STL file](../../blob/master/assets/caster_shroud_60mm.stl) | for 60mm wheel |
+| Caster base | 1 | -- | [STL file](../../jetbot/blob/master/assets/caster_base_60mm.stl) | for 60mm wheel |
+| Caster shroud | 1 | -- | [STL file](../../jetbot/blob/master/assets/caster_shroud_60mm.stl) | for 60mm wheel |
 
 ### Assembly Hardware
 
