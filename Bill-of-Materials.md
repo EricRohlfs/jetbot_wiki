@@ -87,6 +87,6 @@ You need the following parts to build JetBot.  They come in packs, so order the 
 |  M3 nut | 4 | 100 | $0.24 | [Amazon](https://amzn.to/2tb8PMo) |  |
 |  Jumper wires | 4 | 40 | $0.13 | [Amazon](https://amzn.to/2tacYQD) | Female-female, ~20cm |
 
-### Next
+## Next
 
 Follow the [hardware setup](hardware-setup).
