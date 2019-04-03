@@ -19,7 +19,7 @@ You need these components for each JetBot.
 | *PiOLED* display | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |  |
 | *PiOLED* header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) | 2x(3+) right angle male |
 | Chassis | 1 | -- | [STL file](../../jetbot/blob/master/assets/chassis.stl) | see [3D printing](3d-printing) | |
-| Camera Mount | 1 | -- | [STL file](../../jetbot/blob/master/assets/chassis.stl) | see [3D printing](3d-printing) |
+| Camera Mount | 1 | -- | [STL file](../../jetbot/blob/master/assets/camera_mount.stl) | see [3D printing](3d-printing) |
 
 ### Camera
 
