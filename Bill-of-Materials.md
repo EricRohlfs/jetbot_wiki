@@ -59,7 +59,7 @@ You need a WiFi solution for each JetBot.  Select an option and get the parts sp
 
 You need wheels with a "TT" motor shaft connector for each JetBot.  Select an option and get the parts specified.
 
-#### Option 1 - 65mm
+#### Option 1 (default) - 65mm
 
 |  **Part** | **Quantity** | **Cost** | **URL** | **Notes** |
 | --- | --: | --: | --- | --- |
