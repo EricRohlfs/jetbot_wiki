@@ -17,7 +17,7 @@ You need these components for each JetBot.
 | Battery | 1 | $15.99 | [Amazon](https://amzn.to/2WRcIUe) | 2x 5V/3A output, 10,000mAh |
 | USB cable pack | 1 | $6.99 | [Amazon](http://amzn.com/B01N337FQF/) | Type A to Micro, right angle |
 | *PiOLED* display | 1 | $14.95 | [Adafruit](http://adafru.it/3527), [Amazon](https://amzn.to/2GgxUxX) |  |
-| *PiOLED* header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf) | 2x(3+) right angle male |
+| *PiOLED* header | 1 | $5.95 | [Adafruit](http://adafru.it/1541), [Amazon](https://amzn.to/2taLSJf), [Sparkfun](https://www.sparkfun.com/products/12792) | 2x(3+) right angle male |
 | Chassis | 1 | -- | [STL file](../../jetbot/blob/master/assets/chassis.stl) | see [3D printing](3d-printing) | |
 | Camera Mount | 1 | -- | [STL file](../../jetbot/blob/master/assets/camera_mount.stl) | see [3D printing](3d-printing) |
 
