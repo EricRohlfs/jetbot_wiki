@@ -1,6 +1,6 @@
 Welcome to the JetBot Wiki!  Here you can find everything you need to get up and running with JetBot.
 
-If you run into any issues, please [let us know](../../issues)!
+If you run into any issues, please [let us know](../issues)!
 
 Happy JetBotting :)
 
