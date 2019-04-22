@@ -33,7 +33,7 @@ of filaments that we have tested with the [Monoprice Voxel](https://amzn.to/2GbU
 |-------|-----------|----------|-------|-----|-------|
 | AmazonBasics | 1.75mm | PLA | Silver | [Amazon](https://amzn.to/2BkrKZP) | Smooth, dark metallic finish |
 | AmazonBasics | 1.75mm | PLA | Neon Green | [Amazon](https://amzn.to/2HPg1YR) | Smooth, pale finish|
-| AmazonBasics | 1.75mm | PLA | Yellow | [Amazon](#) | Bold yellow, slightly translucent |
+| AmazonBasics | 1.75mm | PLA | Yellow | [Amazon](http://amzn.com/B07D6CPFP4/) | Bold yellow, slightly translucent |
 | AmazonBasics | 1.75mm | PLA | Purple | [Amazon](#) | Smooth, pale finish |
 
 ### Printing and slicing configuration
