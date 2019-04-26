@@ -60,6 +60,7 @@ on the SD card image.  To install the latest software:
     ``` 
 3. Replace the old notebooks with the new notebooks by entering
     ```bash
+    sudo apt-get install rsync
     rsync jetbot/notebooks ~/Notebooks
     ```
 
