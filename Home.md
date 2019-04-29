@@ -23,9 +23,10 @@ Ask a question, make a suggestion, share a project...
 * Create an [issue](../../issues)
 * Share your project on the [forum](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
 
-### Useful information
+### Useful stuff
 
 * [Battery tips](battery-tips)
 * [3D printing](3D-printing)
+* [jetbot_ros - Robot Operating System (ROS) port](https://github.com/dusty-nv/jetbot_ros)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/wiki/Home?pixel)](https://github.com/igrigorik/ga-beacon)
