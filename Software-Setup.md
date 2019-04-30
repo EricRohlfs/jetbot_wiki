@@ -80,7 +80,7 @@ place the Jetson Nano in ``5W`` mode by calling the following command
     ```
 5. Verify the Jetson Nano is in 5W power mode
     ```bash
-    nvpmodel -q
+    sudo nvpmodel -q
     ```
 
 ## Next
