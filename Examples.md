@@ -12,7 +12,7 @@ In this example we'll control JetBot by programming from a web browser.
 
 2. Sign in with the default password ``jetbot``
 3. Navigate to ``~/Notebooks/basic_motion/``
-4. Open and follow the ``basic_motion.ipynb`` notebook
+4. Open and follow the [``basic_motion.ipynb``](../../blob/master/notebooks/basic_motion/basic_motion.ipynb) notebook
     > Make sure JetBot has enough space to move around.
 
 ### Example 2 - Teleoperation
@@ -28,7 +28,7 @@ In this example we'll drive JetBot remotely, view live streaming video, and save
 2. Sign in with the default password ``jetbot``
 2. Shutdown all other running notebooks by selecting ``Kernel`` -> ``Shutdown All Kernels...``
 3. Navigate to ``~/Notebooks/teleoperation/``
-3. Open and follow the ``teleoperation.ipynb`` notebook
+3. Open and follow the [``teleoperation.ipynb``](../../blob/master/notebooks/teleoperation/teleoperation.ipynb) notebook
 
 ### Example 3 - Collision avoidance
 
