@@ -12,7 +12,7 @@ In this example we'll control JetBot by programming from a web browser.
 
 2. Sign in with the default password ``jetbot``
 3. Navigate to ``~/Notebooks/basic_motion/``
-4. Open and follow the [``basic_motion.ipynb``](../../blob/master/notebooks/basic_motion/basic_motion.ipynb) notebook
+4. Open and follow the [``basic_motion.ipynb``](../../jetbot/blob/master/notebooks/basic_motion/basic_motion.ipynb) notebook
     > Make sure JetBot has enough space to move around.
 
 ### Example 2 - Teleoperation
