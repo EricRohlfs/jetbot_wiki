@@ -2,10 +2,10 @@ This page details the software setup required to run JetBot.
 
 ### Step 1 - Flash JetBot image onto SD card
 
-1. Download the JetBot SD card image [jetbot_image_v0p3p0.zip](https://drive.google.com/open?id=1RgQ99QOqhcNxivSNJpetXdoOCqUWAWH_)
-    >  If the above image is too large for your 64GB SD card, please try this [63GB image](https://drive.google.com/open?id=154LYkrFiBHFVV2kLTjRSwdV_vbZNdpxH) instead.  See [this issue](https://github.com/NVIDIA-AI-IOT/jetbot/issues/21) for details.
+1. Download the expandable JetBot SD card image [jetbot_image_v0p3p2.zip](https://drive.google.com/open?id=1GF2D814hkViwluZ5SgNKW56cQu_5Ekt5)
+    > The above expandable image should work on any SD card greater than or equal to 32GB.  If you run into issues please try the archived [63GB](https://drive.google.com/open?id=154LYkrFiBHFVV2kLTjRSwdV_vbZNdpxH) or [64GB](https://drive.google.com/open?id=1RgQ99QOqhcNxivSNJpetXdoOCqUWAWH_) images.
 
-2. Insert a 64GB+ SD card into your desktop machine
+2. Insert an SD card into your desktop machine
 3. Using [Etcher](https://www.balena.io/etcher/), select the ``jetbot_image_v0p3p0.zip`` image and flash it onto the SD card
 4. Remove the SD card from your desktop machine
 
